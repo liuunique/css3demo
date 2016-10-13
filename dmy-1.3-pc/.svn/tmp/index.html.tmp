@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<link href="img/icon.ico" rel="shortcut icon"/>
+		<style type="text/css">
+			.navback #nav1 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>
+		<!--百度地图api定位-->
+		<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=AQCmeeQtYHkTcA1nM8kUQHs9"></script>
+		
+		<title>多美源首页</title>
+	</head>
+	<body>
+	<!--head-module-->
+	<div id="nav"></div>
+
+	<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/banner1.jpg" alt="banner"/>
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner"/>
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner"/>
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner"/>
+							<div class="clear"></div>
+						</a>
+					
+					</li>
+				</ul>
+			</div>
+			<div class="hd">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+		</div>
+
+		<!--main-->
+		<!--新闻动态-->
+		<div class="news-trends">
+			<div class="some-tit">新闻动态</div>
+			<div class="some-sub">
+				—————————————&nbsp;&nbsp;精诚专业，为您尽可能争取最大利益 &nbsp;&nbsp;———————————
+			</div>
+			<!--新闻详细内容部分-->
+			<div class="news-content-left">
+				<img src="img/index/news-pic-1.png"/>
+					<div class="contents">
+						<p><a href="news-detail01.html">网络直播如何在“互联网+”时代活下来？</a></p>
+						<p><a href="news-detail01.html">时间：2016-07-01 08:49 <br />
+						 6月27日，2016夏季达沃斯论坛现场，比亚迪总裁王传福在进行网络直播。网络直播究竟有多“火”？网络直播的出现是时代发展的产物，无论人们接受与否，其都“纽结”在互联网生态的产生、存在和发展中。互联网产业已</a></p>
+					</div>
+				
+			</div>
+			<div class="news-content-right">
+				<img src="img/index/news-pic-2.png"/>
+				<div class="contents">
+					<p><a href="news-detail02.html">股市将迎重大利好！这次国务院出手了</a></p>
+					<p><a href="news-detail02.html">时间：2016-09-02 14:56<br />
+						股市将迎重大利好！这次国务院出手了。国务院总理李克强9月1日主持召开国务院常务会议，强调要发挥主板、创业板和地方性股权交易场所功能，完善全国中小企业股份转让系统交易机制，畅通创投的上市、股权转让、并购重组等退出渠道。</a></p>
+				</div>
+			</div>
+			<div class="news-content-left">
+				<img src="img/index/news-pic-3.png"/>
+				<div class="contents">
+					<p><a href="news-detail03.html">丢掉手机、电脑，华硕将发布多款独立VR设备</a></p>
+					<p><a href="news-detail03.html">时间：2016-9-3 7:43<br />
+						目前，虚拟现实头戴设备已经被认为是人们的PC设备，而华硕似乎也有这方面的计划。这家公司在柏林IFA展会上宣布，他们将会开发自家的虚拟现实产品。华硕公司的设计中心主任Jen Chuang表示：“华硕很快就会推出数款虚拟现实头戴设备。”</a></p>
+				</div>
+			</div>
+			<div class="news-content-right">
+				<img src="img/index/news-pic-4.png"/>
+				<div class="contents">
+					<p><a href="news-detail04.html">你适合创业还是老老实实上班？看完就知道了！</a></p>
+					<p><a href="news-detail04.html">时间：2016-06-18 16:56<br />
+很多人都想着要创业，但又担心失败，不确定自己是否能够创业，那今天我们就这个问题来分析下什么样的人适合创业，什么样的人适合上班呢？
+创业和工作本质上没有太大的区别。创业时团队在没有目标时，你要制定规划目标，有了目标后，你要快速清理路障。</a></p>
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="seemore">
+				<a href="news.html"><div class="more-btn">查看更多</div></a>
+			</div>
+		
+		</div><!--news-content  end-->
+			
+				
+		<!--首页的关于我们模块-->
+		<div class="about-us-bg">
+			<div class="about-us-content">
+				<div class="us-tit">关于我们</div>
+				<div class="us-sub">
+				—————————————&nbsp;&nbsp;精诚专业，为您尽可能争取最大利益 &nbsp;&nbsp;———————————
+				</div>
+				<img src="img/index/001_17.png"/>
+				<p>
+					郑州多美源网络科技有限公司是一家专业从事计算机信息技术的企业。公司拥有一支极其富有激情，技术顶尖的团队，由一批具备丰富的互联网工作经验及软、硬件开发和维护经验的专业技术人员组成。我们根据市场及国家政策导向，努力打造一站式综合性网上购物平台，除了自营产品外， 吸纳国内外知名品牌及网上优质客户入驻。依托自身完善的服务体系，强大的技术力量以及丰富的经验、信息资源和市场运作实力，客户已遍及政府机构、教育、医疗卫生、交通运输、房地产、工业、贸易等企事业领域，快速成长为互联网应用的佼佼者。 
+				</p>
+				<div class="seemore">
+				<a href="about-we.html"><div class="more-btn">查看更多</div></a>
+			</div>
+			</div>
+		</div><!--about-us end-->
+		
+		
+		<!--首页的企业产品模块-->
+		<div class="enterprise-product">
+			<div class="some-tit">企业产品</div>
+			<div class="some-sub">
+				—————————————&nbsp;&nbsp;精诚专业，为您尽可能争取最大利益 &nbsp;&nbsp;———————————
+			</div>
+			<!--商品展示图-->
+			<div class="product-img">
+				<a href="#"><div class="img-p">
+					<img src="img/index_03.png"/>
+					<p>微之源商户端是由微之源官方推出的商家后台客户端,商家通过客户端可享受方便，快捷，贴心的网络服务，更多详情一目了然，所有订单尽在掌握。</p>
+				</div></a>
+				<a href="#"><div class="img-p">
+					<img src="img/index_05.png"/>
+					<p>微之源商城——中国领先的创富服务平台。致力于以尽可能低的价格给会员提供畅销的高档次商品，</p>
+				</div></a>
+				<a href="#"><div class="img-pr">
+					<img src="img/index_07.png"/>
+					<p>源总结是公司内部员工每日工作总结的一个app,包括有公告，写工作总结栏，查询个人的工作总结，拨打电话，评论，个人中心等。</p>
+				</div></a>
+			</div>
+		</div><!--enterprise-product end-->
+		<div class="clear"></div>
+		<!--联系我们模块-->
+		<div class="call-we">
+			<div class="some-tit">联系我们</div>
+			<div class="some-sub">
+				—————————————&nbsp;&nbsp;精诚专业，为您尽可能争取最大利益 &nbsp;&nbsp;———————————
+			</div>
+			<div class="indexmap" id="allmap"></div>
+			<!--<img src="img/index/001_34.png" />-->
+			<div class="call-style">
+				地址：郑州市大学路与政通路交叉口升龙天玺8号楼1115室<br />
+				免费热线：400-6656-079<br />
+				固话：0371-63315335
+			</div>
+		</div>
+		<div class="clear"></div>
+		
+		<!--foot-->
+	<div id="foot"></div>
+		<!--禁止jquery提到顶部-->
+		<script type="text/javascript" src="js/map-jquery.js"></script>
+		<script src="js/index-jquery.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		$(function () {
+			$("#nav").load("include/nav.html");
+			$("#foot").load("include/footer.html");
+		})
+	</script>
+	</body>
+</html>

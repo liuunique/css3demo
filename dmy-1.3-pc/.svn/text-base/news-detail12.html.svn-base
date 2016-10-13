@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30" style="font-size: 1pc;">
+				<h1 class="title" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 34px; line-height: 42px; font-family: inherit; vertical-align: baseline; color: rgb(68, 68, 68); text-align: center;">
+    6位数的支付密码大有来头！
+</h1>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; text-align: center;">
+    &nbsp; &nbsp;<span style="color: rgb(51, 51, 51); font-family: Arial, 微软雅黑; font-size: 12px; line-height: 30px; text-align: center; text-indent: 30px; background-color: rgb(255, 255, 255);">2016-9-35:59:33 点击数26485次</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;以前我一直想不通一个问题，为什么像银行取款密码微信支付宝等都只输入6位数的支付密码呢，难道不是越多越复杂越安全吗？今天看到一篇文章，解释了这个问题：
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;首先，现在的电脑破解很牛逼，一般情况下，破译密码较为常见的方法是“穷举法”。如果仅以数字作为密码，六位数的话，那你需要计算10的六次方就能破解。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;果把字符的范围扩大，比如加上26个字母的大小写，再加上10个数字，总共是62个字符，这样再用穷举法破解六位数密码，需要计算62的六次方。如果你再增加密码的位数，或者再加入更多的特殊字符，那所需要计算的量会更大，破解所花费的时间也就越长。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;不过对于电脑来算，这根本不算什么的。理论上来说，无论多复杂的密码或者加密方法，随着计算能力的发展，都不会一直安全。这种情况下，复杂密码的意义就不太大了。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;在电脑计算能力越来越强的情况下，单凭密码这个手段作为认证条件，已经很不安全了。至少还需要另外一种形式的认证才能保证安全，比如指纹啊、声音啊、虹膜啊等等。与其让用户设置复杂密码，并且为了记住密码而费尽心思，你还不如在系统层面增强安全性。否则，密码设得又复杂又长，只是让你感觉很安全而已，更像是一种心理安慰。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; text-align: center;">
+    <img src="img/d0100084eb238f06424.jpg" alt="6位数的支付密码大有来头！"/>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;其次，你可能会问，那为啥是六位数密码，而不是八位数、七位数、五位数呢？这是因为，六位数密码恰好符合我们的生理极限。咱们先来做个测验，我说一组数字，看看你是不是能记得住：2471530121987。很难记住吧？因为太长了。除非你把这串数字分解开再记，否则很难记得清。比如，你可以把它分解成24，也就是一天有24小时；7，一个星期有7天；15，半个月有15天；30，一个月有30天；12，一年有12个月；1987，就是1987年吧。你看，我把2471530121987这串数字分解成了6个部分，你再记的话，会不会更容易一些？不过，你要是把这串数字再放长一些，分解成7个部分以上，你想在短时间内记下来同样会很困难，因为7个部分已经是我们大多数人的记忆极限了。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;在认知心理学上，刚刚我说的这一串数字非常有名。上世纪50年代，心理学家乔治-米勒在一篇很著名的论文中就得出过这么个结论，那就是成年人在正常情况下，只能在短时间内记住7个数字。不同的人可能略有浮动，从5到9不等。在认知心理学领域，这就是著名的“七加减二”原理。说到这儿你就明白了吧，其实是同样的道理，一个超过六位数的密码，很多人可能记忆起来就会比较吃力，这是咱们人类的一个记忆临界值，所以银行的密码啊、微信、支付宝的支付密码等等，都是六位数。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;第三，你可能还会说，记不记得住我不管，我就是觉得六位数太简单、不安全，怎么办？其实啊，像微信、支付宝这样的平台，除了支付密码之外，还设置了其他防线。就拿微信来说，你想用微信支付，得先登录微信吧，这是第一道防线；另外，你开通微信支付后系统还会有“账户保护”功能。也就是说，你更换设备登录时，还得通过短信验证码等方式认证，这样被盗号的风险就降低了。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;假如上面说的这三道防线，每道防线被突破的概率是30%，那最终你的账户被盗用的概率就是：30%乘以30%，再乘以30%，也就是2.7%。这样一算，概率是不是就很低了？所以说啊，保证安全，密码长度不是关键，关键的是得有双重甚至多重的认证模式，这个才是根本。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;那你可能就问了，为了好记，为什么非得是六位数，五位数、四位数，甚至是随便取一个数字不行吗？其实啊，你得知道，你每减少一个数字，密码的安全程度就降低了一大截。咱们来做个简单的算数题。假设你的密码有两道屏障，分别是登录密码和支付密码，那你账户的风险值就是登录密码被破解的概率乘以支付密码被破解的概率。假如你的登录密码是固定的6位数，这时，如果你的支付密码是六位数，那被破解的概率是一万亿分之一；而如果你的支付密码是四位数，那被破解的概率是一百亿分之一。你看，一个是一万亿分之一，一个是一百亿分之一，差别就出来了吧？更不用说，假如熟悉你个人信息的人很容易就猜到了密码，第二道防线失效，那你遭遇财产风险的概率就大大提升了。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; text-align: center;">
+    <img src="img/d060005a13fb226a81e.jpg" alt="6位数的支付密码大有来头！"/>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;Pcgogo.com小编还有话要讲，在支付安全中，还有最重要的一个限制是，大部分支付密码不会让你尝试很多次的，一旦超过限定次数，就会锁定你的账号24小时之类的。所以用电脑穷举法是不现实的。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; &nbsp;总体上来说，从安全性以及便捷性等因素来综合考量，六位数的支付密码对我们来说是最合适的。你看，互联网时代就是有这么个特征，那就是，你原本可能都没太注意的小细节和小现象，其实背后可能蕴藏着像心理学、数学等等非常复杂的考量。你要是仔细挖掘一下，对自己一定是个大收获。
+</p>
+<p>
+    <br/>
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

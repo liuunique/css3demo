@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<style type="text/css">
+					p{
+						font-weight: normal;
+					}
+				</style>
+				<h3 style="margin: 5px auto 10px; padding: 0px; font-stretch: normal; font-size: 24px; line-height: 57px; font-family: 微软雅黑; color: rgb(34, 34, 34); text-align: center;">
+    <span style="font-size: 24px;"> 股市将迎重大利好！这次国务院出手了</span>
+    <p style="text-align: center;">
+    <span style="font-size: 16px; color: rgb(89, 89, 89); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">时间：2016-9-2:12:00 &nbsp;阅读量：5236次</span><span style="font-size: 24px;"><br/></span>
+</p>
+				<p style="text-align: left;">
+国务院总理李克强9月1日主持召开国务院常务会议，强调要发挥主板、创业板和地方性股权交易场所功能，完善全国中小企业股份转让系统交易机制，畅通创投的上市、股权转让、并购重组等退出渠道。
+同时会议还确定支持有需求、有条件的国有企业依法依规、按照市场化方式设立或参股创投企业和母基金，支持具备条件的国有创投企业开展混合所有制改革试点。
+股市将迎重大利好！这次国务院出手了
+
+盛世投资总裁张洋认为，支持国企设立或参股创投企业和母基金等是本次会议的核心看点，母基金主体作用被凸显。
+张洋认为，首先，坚持市场化的原则，可以激发国有企业参与创业投资的热情，通过混合所有制改革设立创业投资基金等方式，能够激发国有企业的资金入口能力，让他们把低成本的资金投入到创业投资中，从而带动全民的创业热情，拉动经济的增长。
+国务院的常务会议中首次提到母基金，母基金的主体作用被凸显，这说明国务院认可母基金广泛的资金募集能力、投资的风险防范能力以及布局和资源整合能力的特性。通过母基金的手段，可以使政府引导基金和国有企业创投机构，更广泛地参与到创业投资中。
+创投概念股迎重大利好
+相关创投概念股：中关村、张江高科、紫江企业、南京高科、大众公用、苏州高新、九鼎投资、金字火腿、皖新传媒、中原高速、高新发展、鲁信创投、杉杉股份、大唐电信、复旦复华、电广传媒等。
+鲁信创投： 鲁信创投以创投业务为主，兼营磨料磨具生产，是A股惟一的以创投业务为主营的上市公司，新三板市场的发展将给创投类公司带来新的退出渠道
+张江高科： 研发园区龙头，中国创新发展桥头堡。目前，公司全资子公司浩成创投和上市公司投资的长期股权投资额合计32.60 亿元
+中 关 村： 中关村科技园区作为新三板的第一个试点和目前最主要园区，拥有雄厚基础、独特资源，为企业健康快速发展提供了良好的环境
+东湖高新： 继中关村之后第二家获批国家级自主创新示范区的武汉东湖高新区
+苏州高新： 大量中小型科技型企业“扎堆”的苏州高新区是新三板扩容首批试点的大热门
+高新发展： 成都高新技术开发区的开发、建设、房地产的开发和经营
+南京高科： 南京高科目前已经形成上市公司、高科新创和高科小贷三个投资平台，公司采取市场化投资决策，创投能力一流且投资收益颇丰,子公司臣功制药已登陆新三板
+电广传媒： 全资子公司达晨创投(注册资本1亿元)，2012年达晨创投的行业地位、品牌美誉度得到进一步巩固，继续保持了健康发展的良好态势
+紫光股份： 投资4000万元持有紫光创新投资16%股权(注册资本2.5亿元)，为其最大股东
+电子城： 公司所在的电子城科技园1999年就被并入中关村科技园区,是中关村科技园区十园中的一员
+综艺股份： 公司持股53.85%的江苏高科技产业投资公司（从事实业投资，注册资本10000万元）控股子公司江苏高投（占53.85%）
+大众公用： 公司持股13.93%的深圳创新投资集团(注册资本16亿元)，是中国资本规模最大、投资能力最强的本土创业投资机构
+天茂集团： 公司持有上海益科创业投资31%股权和清华紫光科技创新投资8%股权。尤其后者致力于高成长企业培育和高科技项目孵化
+杉杉股份： 杉杉创投以下属全资子公司上海杉杉创晖创业投资管理有限公司为基金管理平台，积极拓展基金募集及管理业务。
+海泰发展： 海泰发展是滨海高新区的主要开发建设者
+钱江摩托： 公司出资设立浙江满博创投(注册资本3亿元，公司占比80%)
+钱江水利： 公司持有浙江天堂硅谷创业投资集团27.90%的股权。其已形成医药化工 、机电一体化 、再生资源 开发和利用等三大投资领域的优势。
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<style type="text/css">
+					strong{font-size: 1pc;}
+				</style>
+				<h1 id="main_title" style="margin: 40px 0px 0px; padding: 0px; font-size: 38px; color: rgb(51, 51, 51); line-height: 38px; font-family: &quot;Microsoft Yahei&quot;, Simsun; white-space: normal; text-align: center;">
+    疯狂的太空火车概念设计：秒速3000公里37小时抵达火星
+</h1>
+<p></p>
+<br />
+<p style="text-align: center;">
+    <img src="img/VTEk-fxvqqsk4584383.jpg" alt="近日有人提出了一种疯狂的“列车”概念，这可比一般的火车快得多。这是一种“太空列车”，它会以很高的速度运行，从不减速"/><span class="img_descr" style="line-height: 20px; padding: 6px 0px; font-size: 12px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51);">　　<span style="line-height: 20px; padding: 6px 0px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51); font-size: 14px;">近日有人提出了一种疯狂的“列车”概念，这可比一般的火车快得多。这是一种“太空列车”，它会以很高的速度运行，从不减速</span></span>
+</p>
+<p style="text-align: center;">
+    <img src="img/yMLj-fxvqcts9198716.jpg" alt="大型的太空城市会设计自转运动，从而利用自转产生的离心力在其内部的居住仓内创造一种人工重力。这样人们便能够在太空城市内“脚踏实地”的漫步和生活"/><span class="img_descr" style="line-height: 20px; padding: 6px 0px; font-size: 12px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51);">　　<span style="line-height: 20px; padding: 6px 0px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51); font-size: 14px;">&nbsp; &nbsp;大型的太空城市会设计自转运动，从而利用自转产生的离心力在其内部的居住仓内创造一种人工重力。这样人们便能够在太空城市内“脚踏实地”的漫步和生活</span></span>
+</p>
+<p style="text-align: center;">
+    <img src="img/U4CX-fxvqcts9198739.jpg" alt="在太阳快车途径的路线周围将安装巨大的太阳能帆板用于捕获太阳能并通过激光束将电力注入一个超级电容装置"/><span class="img_descr" style="line-height: 20px; padding: 6px 0px; font-size: 12px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51);">　　<span style="line-height: 20px; padding: 6px 0px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51); font-size: 14px;">在太阳快车途径的路线周围将安装巨大的太阳能帆板用于捕获太阳能并通过激光束将电力注入一个超级电容装置</span></span>
+</p>
+<p style="text-align: center;">
+    <img src="img/Ie3k-fxvqcts9198752.jpg" alt="太阳快车的结构主体是一系列排成一线的圆柱体。每个圆柱体的长度都有至少50米，每一辆太阳快车都由6个这样的圆柱体组成。这些圆柱体被分划分为4个载货舱，并且可以在飞行过程中由维护机器人进行中途替换"/><span class="img_descr" style="line-height: 20px; padding: 6px 0px; font-size: 12px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51);">　　<span style="line-height: 20px; padding: 6px 0px; margin: 5px auto; display: inline-block; zoom: 1; text-align: left; color: rgb(51, 51, 51); font-size: 14px;">&nbsp; &nbsp;太阳快车的结构主体是一系列排成一线的圆柱体。每个圆柱体的长度都有至少50米，每一辆太阳快车都由6个这样的圆柱体组成。这些圆柱体被分划分为4个载货舱，并且可以在飞行过程中由维护机器人进行中途替换</span></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　新浪科技讯&nbsp;北京时间9月2日消息，近日有人提出了一种疯狂的“列车”概念，这可比一般的火车快得多——它可以将人或者货物在大约37个小时内送到火星！这个概念被称作“太阳快车”（Solar Express），这是一种“太空列车”，它会以很高的速度运行，从不减速。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　“想象行动”（Imaginactive）是一家宣称旨在“启发下一代人创造未来交通方式”的非盈利机构。该机构的查尔斯·庞巴迪亚和工程师奥利弗·帕拉迪是“太阳快车”概念的提出者。庞巴迪亚表示：“太空飞行最大的成本在于加速和减速阶段。在这两个阶段消耗的能量是惊人的，尤其是像太空列车这样的重型飞行器。除此之外，要是你想要搭载货物，那么成本还将进一步上升。”他说：“然而，一旦太空列车抵达并维持巡航速度，那么其能量消耗就会大大减小。而这正是‘太阳快车’的基本理念。这列太空火车不会停下，因此小飞船们必须它经过时赶上这趟火车。”
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　庞巴迪亚表示，太阳快车将用于运输物资、矿物、飞船甚至是乘坐在拥有人工重力环境员舱内的人类。大型的太空城市会设计自转运动，从而利用自转产生的离心力在其内部的居住仓内创造一种人工重力。这样人们便能够在太空城市内“脚踏实地”的漫步和生活。这对于将要持续数月乃至数年之久的漫长太空飞行任务是相当重要的。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　但是，太阳快车的运行速度越快，要想赶上它并搭车所需要的成本也就会越高，因此设计者设想了一系列不同的路线，每条路线都有不同的价格。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　庞巴迪亚说：“正如你能够想象的，每吨货物的运输成本是非常重要的参数，就像地球上快递公司发送包裹按照重量收费的道理是一样的。一部分太阳快车可以运行在比较远的路线上，比如抵达遥远的行星，而另外一些则用于更加短途的旅程，当然这两者的速度也将是不同的。”
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　庞巴迪亚表示，第一辆太阳快车将运行在地球和月球之间，它以每秒15公里的速度行驶，只需要单程7个小时就能抵达月球。他说：“月球将被作为飞往其他天体的发射站，因为在月球低重力的环境下组装这样的太空火车将变得更加容易。而火星则将是下一阶段建设的理想目标，尤其是如果我们能够成功改造火星环境，实现火星‘地球化’的话。”
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　<strong>太阳快车如何工作？</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　太阳快车的结构主体是一系列排成一线的圆柱体。每个圆柱体的长度都有至少50米，每一辆太阳快车都由6个这样的圆柱体组成。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　这些圆柱体被分划分为4个载货舱，并且可以在飞行过程中由维护机器人进行中途替换。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　太阳快车在一开始将由火箭推进器实现初步加速。在飞船核心内存储的燃料将能够被用于飞行路线的修正。快车还将利用引力弹弓效应实现对行星或卫星的飞掠。按照设想，太阳快车的速度将非常快，达到光速的1%，或者大约每秒3000公里。在太阳快车途径的路线周围将安装巨大的太阳能帆板用于捕获太阳能并通过激光束将电力注入一个超级电容装置。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　从彗星以及其他小型卫星上采集的水体将被用于太阳快车上人类的日常生活并送往其他大型太空站用于补给。这些水体还将能够被用于产生氢气和氧气，这些都是可以作为推进剂的原料。当然列车的主要推进动力将是离子发动机。
+</p>
+<p style="margin-top: 0px; margin-bottom: 20px; padding: 0px; line-height: 32px; font-size: 18px;">
+    　　可移动式载货舱（MCBs）和其他小型飞船之间的配合，将能够实现太阳快车与各大天体（行星、卫星或小行星）之间的货物以及人员交通。这些小型飞船将使用不同的推进技术，以实现与太阳快车之间灵活的相互衔接，它们必须能够追上列车并保持相对速度静止，从而实现人员与货物的转运和交流。（晨风）
+</p>
+<p>
+    <br/>
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/case.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav4 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>成功案例</title>
+	</head>
+	<body>
+	<!--head-module-->
+	<div id="nav"></div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/case-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						<a href="case.html" class="case-succ">成功案例</a>
+						<ul class="two-tab">
+							<li>
+								<a href="case-info-1.html">微之源商城</a>
+							</li>
+							<li>
+								<a href="case-info-2.html">源商家</a>
+							</li>
+							<!--去掉 类样式 focus-->
+							<li class="">
+								<a href="case-info-3.html">源总结</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙天玺</p>
+			</div>
+			<!-----------------------End 左侧tab导航----------------------->
+			<!-----------------------begin 右侧列表区----------------------->
+			<div class="right-side pdl-30">
+				<h2 class="news-nav clearfix">成功案例
+					<span class="text-right por"><img  src="img/nav-home.png" alt="" class="icon-home-index"/>当前位置：
+						<a href="javascript:void(0)"><span class="">首页 </span></a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />成功案例</a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />源总结</a>
+					</span>
+				</h2>
+			    <div>
+			    	<div class="ci-tit clearfix">
+		    			<div class="tit">
+		    				<img src="img/csae/case-3.png" alt="" class="tit-img"/>
+		    			</div>
+		    		</div>
+		    		<div class="lh-30 f-14">
+			    		<div class="t-indent-26">
+			    			该项目是公司内部员工每日工作总结的一个app,包括有公告，写工作总结栏，查询个人的工作总结，拨打电话，评论，个人中心等。包含了每个人的每天工作的内容。
+					        <div>①、源于目标管理思想</div>
+						    <div>互联网时代的现代化办公，为工作连接一切，新一代互联网工作平台</div>
+						    <div> ②、无处不在的沟通</div>
+						    <div>以即时通讯为基础，减少层次，使沟通方便快捷；同时配合管理工具，使沟通更有目的性和成效；</div>
+						    <div> ③、基于职务的权限设定</div>
+						    <div>保证每个人该看的看得到，不该看的则看不到；</div>
+						    <div> ④、数据永久保存，随时查询；</div>
+						    <div> 内置功能强大的搜索引擎，可随时方便的查询；</div>
+						    <div>⑤、永久免费</div>
+						    <div> 一款永久免费的企业在线管理软件，无时间、功能、人数限制，真正免费的互联网服务</div>
+			    		</div>
+		    		</div>
+			    </div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	<!--foot-->
+	<div id="foot"></div>
+	<script type="text/javascript">
+		$(function () {
+			$("#nav").load("include/nav.html");
+			$("#foot").load("include/footer.html");
+		})
+	</script>
+	</body>
+</html>

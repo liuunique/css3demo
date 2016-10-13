@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<link rel="stylesheet" type="text/css" href="css/base.css" />
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css" />
+		<link rel="stylesheet" type="text/css" href="css/about-we2.css" />
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<style type="text/css">
+			.navback #nav2 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>
+		<title>企业文化</title>
+	</head>
+
+	<body>
+	<!--head-module-->
+	<div id="nav"></div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/aboutwe.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab">
+				<ul>
+					<li class="curr">
+						人才招聘
+						<ul class="two-tab">
+							<li>
+								<a href="about-we1.html">公司简介</a>
+							</li>
+							<!--去掉 类样式 focus-->
+							<li class="">
+								<a href="about-we2.html">企业文化</a>
+							</li>
+							<li>
+								<a href="about-we3.html">行业优势</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙天玺</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<!--人才理念标题-->
+				<h2 class="news-nav clearfix">企业文化
+					<span class="text-right por"><img  src="img/nav-home.png" alt="" class="icon-home-index"/>当前位置：
+						<a href="javascript:void(0)"><span class="">首页 </span></a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />关于我们</a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />企业文化</a>
+					</span>
+				</h2>
+				<!--企业文化     模块内容详细介绍-->
+				<div class="cul-content">
+					<article>
+						<p>服务第一</p>
+						<p>“科技促进社会发展进步，服务提升人类生活品质。通过自身完善的原创开发团队及整合国内外优秀产品资源，为广大用户提供高品质的互动娱乐一站式购物商城，推动网络商城产业的发展。</p>
+					</article>
+					<article>
+						<p>超越自我</p>
+						<p>勇于挑战，超越自我，一个人才能不断的得到进步和提升；一个公司才能有更大的创新和发展，在行业中立于不败之地。</p>
+					</article>
+					<article>
+						<p>追求品质</p>
+						<p>“打造优质网络商城是多美源人一直以来所追求的目标，郑州多美源网络科技有限公司是以多方面多角度出发去选择运营目标的，在购物方式上，致力于降低用户网上购物繁琐的模式，始终为用户提供易获取的乐趣；在内容上，致力于为用户提供无压力的软文体验，拒绝重暴力体验，提供放松娱乐内容。</p>
+					</article>
+					<article>
+						<p>没有借口</p>
+						<p> 我们视工作为乐事还是苦事完全取决于自己的态度而非工作本身。</p>
+						<br /><br />
+						<p>我们的愿景：大平台，大梦想</p>
+						<p>我们的使命：成就亿万创业者</p>
+						<p>我们的定位：中国第一O2O智能体验创富服务平台</p>
+					</article>
+					<!--右侧地址部分-->
+					<div class="cul-addr">
+						<p>郑州多美源网络科技有限公司</p>
+						<p>地址：郑州市二七区大学路政通路升龙天玺8号楼1115室</p>
+					</div>
+				</div>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+	<!--foot-->
+	<div id="foot"></div>
+	<script type="text/javascript">
+		$(function () {
+			$("#nav").load("include/nav.html");
+			$("#foot").load("include/footer.html");
+		})
+	</script>
+	</body>
+
+</html>

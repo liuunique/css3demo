@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30" style="font-size: 16px;">
+				<h1 class="title" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 34px; line-height: 42px; font-family: inherit; vertical-align: baseline; color: rgb(68, 68, 68); text-align: center;">
+    <span style="font-size: 24px;">30年前面试被拒，马云终买下KFC；商务部开展滴滴优步合并反垄断调查；俞敏洪卸任CEO</span>
+</h1>
+<p>
+    <span class="time" style="border: 0px; margin: 0px 10px 0px 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; float: left; height: 30px; text-align: center; color: rgb(127, 127, 127);">时间：2016-09-03 08:09 阅读量：2314</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; text-align: center;">
+    <img src="img/detail10/news-detail09.jpg" alt="30年前面试被拒，马云终买下KFC；商务部开展滴滴优步合并反垄断调查；俞敏洪卸任CEO"/>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp;董明珠又在隔空喊话雷军：小米的估值还敢那么高吗？
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">1. 马云真的把肯德基给买了 蚂蚁金服确认投资百胜中国</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp;肯德基和必胜客母公司百胜餐饮集团昨日宣布，与春华资本集团及蚂蚁金融服务集团达成协议，二者共同向百胜中国投资4.6亿美元。这项投资将与百胜餐饮集团与百胜中国分拆同步进行。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp;马云曾在演讲中说，今天的年轻人可能迷茫，觉得机会不多，但自己年轻时也历经挫折，比如，他应聘过三十几份工作，25人应聘肯德基，除了他，其他24个人都被录取，而且那个老板还是台湾人；15年前阿里巴巴也是小得不能再小的企业，自己和18个年轻人一起白手起家，一点一滴创业，从没想过今天能和这么多大企业家沟通交流。这样看来，马云的30年之“仇”终于得报。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@FirenzeZune:下条新闻：</span>传京东腾讯联手收购麦当劳汉堡王
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@跨时代半兽人：</span>马云: 为什么当年面试25人就不录用我。我就想找回当年在肯德基上班的感觉
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@Skyworks：</span>百度紧接着宣布收购沙县小吃，新疆大盘鸡，兰州拉面，重庆鸡公煲
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">2. 三星官方回应Note7电池爆炸事件：国行没问题</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp;据美国科技博客网站Gizmodo报道，韩国三星电子今天在首尔举行新闻发布会，证实将在全球范围内召回Galaxy Note7智能手机。但中国市场并不在此次召回范围内，三星电子中国区晚间发表声明称，9月1日起在中国市场正式发售的国行版本，由于采用了不同的电池供应商，而不在此次更换范畴，中国消费者可以放心购买。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@corr：</span>华为是时候崛起了…
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@liu下阳光i：</span>一点用都没有，该买的还是会买。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">3. 华为称2018年成全球第二大手机制造商</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp;《华尔街日报》报道，华为消费者业务部首席执行长余承东周四在柏林接受采访时表示，华为力争到2018年成为全球第二大智能手机制造商。他还称，一旦成为全球第二大智能手机制造商，就可以预测何时将占据第一位。Gartner数据显示，华为在第二季度是全球第三大智能手机制造商，市场份额为8.9%，大幅低于苹果公司的12.9%和三星电子的22.3%。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@ zss0807：</span>华为基本是中低端机，论销售量很快可以超过苹果，但论盈利应该差很远。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@草根草民语录：</span>为什么中国有最大的电脑制造商，手机就不可以有？
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">4. 董明珠喊话：小米还敢估值那么高吗</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 停牌时间超过半年之久的格力电器今日复牌，开盘不久后即涨停。而在此前，格力电器公布了收购银隆及配套募集资金的相关方案。董明珠近日接受央视《财经》采访，谈到格力的多元化战略和上市公司股权问题，表示格力不是要跨行业，而是要打造一个完整的产业链。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 董明珠在央视节目提到：“我不是搞金融的，但我认一个死理，很多股票炒得很高，市值是几十倍上百倍，大家都知道它没有，不值。我今天举一个例子，雷军为例，小米为例，曾经估值是四百五十亿美金，今天还敢估值四百五十亿美金吗？”
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@海边的维尔：</span>董阿姨真赢了
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@白炽灯尾迹：</span>小米确实该学学格力家降温和省电技术
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">5. 商务部开展滴滴优步合并反垄断调查</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 商务部昨日召开例行新闻发布会，新闻发言人沈丹阳表示，滴滴优步合并未向商务部申报，目前，商务部已对滴滴优步合并案开展反垄断调查，两次约谈滴滴出行，要求其说明交易情况、未申报的原因，提交有关文件、资料。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@丑but乖2046：</span>本来就寡头了，现在直接垄断了
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@来瓶儿汽水儿：</span>已经从价格上显露合并用意
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">6. 58同城回应全员996：为应对业务高峰不强制执行</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 近日有消息称，58同城正展开全员“996工作制”，也就是上班时间从早9点到晚9点，一周上6天班。此举引发不少58同城员工吐槽，58同城CEO姚劲波的微博也被围攻。58同城回应称，是为应对9、10月业务高峰，不会强制要求所有人996。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@Ineedlucky：</span>要员工认同，一定要公司付出一定的代价，无论这代价是个美好的饼，还是现金或者期权。作为一个老IT界人士，我怜悯那些为了虚幻的东西，而付出代价的员工
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@CS-Jiong：</span>所谓的自愿就是“不想干就自愿滚
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">7. 新东方换帅：周成刚接替俞敏洪任新东方CEO</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 新东方宣布俞敏洪不再担任新东方集团首席执行官（CEO）一职，现任新东方总裁、前途出国总裁周成刚接任这一职务，并免去其集团总裁的职务。俞敏洪仍然继续担任董事会执行董事长，负责新东方的战略和运营管理工作。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@鬼使神差Roy：</span>转幕后而已！更侧重于演讲和战略制定吧
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@微重先生：</span>换汤不换药？
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">8. 库克：苹果明年可能将把50亿美元现金转移回美国</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 苹果公司在欧盟被罚950亿人民币币的事件持续发酵，苹果CEO库克（Tim Cook）开始公开表达自己对此事的态度。他在接受爱尔兰广播电台RTE Radio 1采访时表示，明年苹果可能将把至少50亿美元（约334亿元人民币）海外现金转移回美国。库克7月份表示，截至6月底，苹果持有2320亿美元的现金，其中约2150亿美元位于美国国外。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    库克说：“我们已准备好，至少将数十亿美元转移回美国并进行支付。目前我可以预计，这一资金转移将于明年进行。”
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@TheMrTuan：</span>不捐不是美国人
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@Dreamer816：</span>这么一看，先挣它一个亿确实是个小目标。。。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">9. 暴风影音去广告功能被判违法：赔偿腾讯50万</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 近日，就上诉人深圳腾讯公司与被上诉人北京暴风公司不正当竞争纠纷一案，北京知识产权法院经审理作出判决，撤销北京市石景山区人民法院一审法院判决，对于深圳腾讯公司主张的50万损害赔偿数额予以全额支持。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 此前，深圳腾讯公司在一审起诉称：经公证证实，暴风网的视频播放功能中设有“极轻模式”，该模式具有深度链接腾讯网的功能，在具体呈现状态中去除了腾讯网的网址网页（包括网页上的广告）以及片头广告中出现的“跳过广告”功能按钮等信息。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@BB二綸 ：</span>腾讯总是赢…
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@鱿鱼丝万岁：</span>我只关心暴风影音的美剧都miss了么
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">10. 美国五大科技巨头将联合制定人工智能道德标准</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 据新浪科技报道，谷歌母公司Alphabet、亚马逊、Facebook、IBM和微软这5家全球最大的科技公司正尝试制定关于人工智能机器人的道德标准。比起人工智能威胁论，他们讨论的是更切实的问题，例如人工智能对就业、交通运输，甚至战争的影响。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 目前尚不清楚，这一行业组织最终会取得什么样的成果。然而多名消息人士表示，该组织的基本出发点很明确：确保人工智能的研究专注于造福人类，而非不利于人类。
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@徐陈都：</span>第一，绝对不意气用事；第二，绝对不漏判任何一件坏事；第三，绝对裁判的公正漂亮！
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">@梦游呢：</span>人类从不担心程序的标准，人类真正担心的是人工智能进化而对人类产生的威胁。从这一角度，道德标准解决不了
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">11. 沃尔玛将裁员7000人，主要集中在后台部门</span>
+</p>
+<p style="margin-top: 1em; margin-bottom: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+    &nbsp; 据华尔街日报报道，沃尔玛将削减美国后台部门职位，裁员人数达7000人。其中部分员工将被给予内部转岗选择，从事与客户接触更多的工作，促进销售和维护店面。沃尔玛发言人已证实裁员消息。据悉，沃尔玛公司在美国大约有150万员工。
+</p>
+<p>
+    <br/>
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

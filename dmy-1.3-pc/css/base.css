@@ -1,0 +1,223 @@
+@charset "utf-8";
+/*reset*/
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	color: #333;
+	font-family: Arial, "微软雅黑";
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+li {
+	list-style: none;
+}
+
+a,
+img,
+a:hover,
+img:hover,
+input {
+	border: 0;
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+}
+
+.clear {
+	clear: both;
+	height: 0px;
+	overflow: hidden;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.clearfix {
+	display: block;
+}
+body {
+	background: #FFFFFF;
+}
+
+.w980 {
+	width: 980px;
+}
+
+.h20 {
+	height: 20px;
+}
+
+.margin-middle {
+	margin: 0 auto;
+}
+
+.h110 {
+	height: 110px;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+/*top*/
+
+.topback {
+	width: 100%;
+	background: #222222;
+}
+
+.top {
+	line-height: 20px;
+}
+
+.topleft,
+.topright {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.topleft {
+	color: #FFFFFF;
+}
+
+.topright {}
+
+.topright a {
+	color: #FFFFFF;
+}
+
+.topright a:hover {
+	color: #dd137b;
+}
+
+/*nav*/
+
+.navback {}
+
+.navback img,
+.navback .nav {
+	float: left;
+}
+
+.navback img {
+	width: 230px;
+	height: 50px;
+	margin-top: 30px;
+	margin-right: 78px;
+}
+
+.navback .nav {
+	height: 110px;
+	line-height: 110px;
+	font-size: 16px;
+	width: 112px;
+	text-align: center;
+}
+
+.navback .nav:hover {
+	background: #3479ca;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.navback .nav-ok {
+	background: #3479ca;
+	color: #FFFFFF;
+}
+/*foot*/
+.footer{
+	width: 100%;
+	height: 105px;
+	background: #3479ca;
+	padding: 12.5px 0;
+	margin-top: 30px;
+}
+.all-bottom{
+	width: 980px;
+	height: 100px;
+	margin: 0 auto;
+}
+.bottom-lef{
+	width: 750px;
+	height: 100px;
+	float: left;
+}
+.bottom-lef p a{
+	width: 750px;
+	height: 50px;
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 50px;
+}
+.bottom-lef p{
+	width: 750px;
+	height: 50px;
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 50px;
+}
+.bottom-lef p a{
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 50px;
+	margin: 0 5px;
+}
+.bottom-lef p a:hover{
+	color: #dd137b;
+}
+.bottom-righ{
+	width: 150px;
+	height: 100px;
+	margin-left: 80px;
+	float: left;
+}
+.bottom-righ p{
+	width: 150px;
+	height: 50px;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 50px;
+}
+.attention{
+	width: 150px;
+	height: 36px;
+}
+.attention a{
+	width: 36px;
+	display:block;
+	height: 36px;
+	float: left;
+	margin-right: 10px;
+	border-radius: 18px;
+}
+.attention img{
+	width: 36px;
+	height: 36px;
+	float: left;
+}
+.attention a:hover{
+	background: #DD137B;
+}
+.attention a:hover {
+    background:transparent!important; 
+    -webkit-box-shadow: 0px 0px 5px #fff!important;
+            box-shadow: 0px 0px 5px #fff!important;
+	/*filter: progid:DXImageTransform.Microsoft.Shadow(Color='#FFFFFF', Direction=0, Strength=1);
+	-ms-filter:progid:DXImageTransform.Microsoft.Shadow(color=#FFFFFF,direction=0,strength=1) 
+　　　　　　        progid:DXImageTransform.Microsoft.Shadow(color=#FFFFFF,direction=0,strength=1) 
+　　　　　　　    progid:DXImageTransform.Microsoft.Shadow(color=#FFFFFF,direction=0,strength=1) 
+　　　　　　　    progid:DXImageTransform.Microsoft.Shadow(color=#FFFFFF,direction=0,strength=1);*/
+}

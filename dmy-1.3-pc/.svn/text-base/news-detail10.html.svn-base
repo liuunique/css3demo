@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<h2 style="margin: 0px; padding: 0px; font-size: 36px; font-weight: normal; color: rgb(26, 26, 26); line-height: 45px; font-family: &quot;Microsoft YaHei&quot;, SimHei; white-space: normal; text-align: center;">
+    <span style="font-size: 24px;">物联网，中国市场上演的精彩碰撞</span>
+</h2>
+<p style="text-align: center;">
+    <span style="color: rgb(127, 127, 127);">发布时间：2016-01-18 15:51 阅读量：7866</span>
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    “未来，每粒沙子都可能拥有自己的IP地址。”
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    现在看来，这种描述似乎是天马行空，但不可否认的是，这是我见到的对物联网产业未来发展最为精彩，也最能引发人无尽联想的描述了。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    不论物联网发展到哪个阶段，都摆脱不了经济运行整体状况对它的影响，这是一种相辅相成、相互促进的关系，我们可以从相关的调研报告中看出些许端倪。据埃森哲预测，2030年产业物联网将为全球创造14.2万亿美元新产值，而中国将新增1.8万亿美元新产值。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    这些预测数据有一个基本前提，那就是基于现有经济运行整体状况、当前政策及投资趋势而得出。就经济发展螺旋式上升的一般规律及本国政治经济基本状况而言，届时中国的经济基础、行业发展、政策驱动、投资拉动等因素较比现在下滑的可能性较小，但并不等于政府、相关行业、物联网从业者、投资人等15年的维持现状也能达到埃森哲的预测，仍然需要在基础设施建设、数据政策、人才培养等方面不断投入，打好基础，支撑产业物联网的发展。可以说，这15年是产业物联网行业发展中，理念与理想的碰撞、资本与市场的碰撞、政策与执行的碰撞、投入与产出的碰撞，何其壮观！
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    <strong style="font-style: inherit;">资本与市场的碰撞</strong>
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    近五年，互联网的爆发式增长，不断变革着人类社会的消费与沟通方式，成熟的消费互联网生态体系已经成型。与此同时，中国拥有世界上最多的互联网用户，移动互联网用户总规模2015年7月已达9.05亿[TH1]&nbsp;;目前4G用户数达2.87323亿户，到2016年1月，4G用户数就将超过3G用户数[TH2]&nbsp;。庞大的市场基础成就了消费互联网的成功，从BAT的崛起与其市值可见一般。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    市场经济体质下，社会资源的配置首先会遵从市场运行机制。消费互联网的成熟、成功，刺激着传统行业对互联网探索的不断深入，与此同时，面对经济下行压力，传统行业企业主也迫切需要找到降低成本、提高效率、提高收益的新型商业模式，于是我们在生产、制造、金融等领域看到了传统企业互联网的进击。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    互联网创造出工业制造、产业协作等企业级的应用，推动着传统行业的转型升级。这不仅是传统行业数字化的探索，而且是产业物联网的雏形，同时也是资本与市场的一场碰撞。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    产业物联网以智能互联的设备和机器为基础，帮助企业拓展全新的数字化服务和商业模式。就我国企业级市场而言，在消费者全面拥抱数字技术的基础上，激发生产制造上下游企业创建数字融合市场；企业的高管人员在了解数字化的潜力后，鼓励企业大力采用云计算、数据分析、射频识别技术和产业互联网等新技术提高企业生产经营效率。政府政策也支持着未来数字基础设施、互联网普及和移动性建设，为产业物联网发展成熟提供便利条件。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    市场向好，而具备原始的趋利属性的资本，在上述多种因素的作用下，将不断涌入该市场，产业物联网将成为资本市场下一个宠儿。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    <strong style="font-style: inherit;">政策与执行的碰撞</strong>
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    产业物联网的发展遵循着市场经济的运行规律，而市场经济体质的背后，需要宏观调控的引导与刺激。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    2015年，中国经济运行的总体特征是稳中趋缓、稳中有进、稳中有忧，各领域分化加剧，动力转换过程中有利因素和不利因素并存，经济下行压力持续加大，预计全年GDP增长6.9%，CPI涨幅1.5%。展望2016年经济增长，中国经济发展长期向好的基本面没有变，但受结构性、周期性因素叠加影响，明年经济运行仍面临较大的下行压力。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    这是新常态下现实的经济发展现状，传统产业如何转型升级，谋求新的经济增长点来推动中国新一轮的经济增长成为业界、学界不断尝试与研究的重点，就目前来看，全面应用数字技术将是一剂良方。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    据埃森哲《数字化密度指数报告》研究显示，数字化密度在五年内增加10分（100 分制），就将推动发达经济体的国内生产总值（GDP）增长率提升0.25%，而新兴经济体的增幅可达0.5%。这是埃森哲与牛津经济研究院合作，共同测评的“数字化密度”——通过50余项指标对数字技术在各国企业和经济中的渗透程度加以衡量，从而发掘未来新的经济增长点并演化出产业物联网的投入与产出模型。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    同时，该报告研究发现，到2020年，如果中国的数字密度提高10分，全要素生产率的年增长率将增加0.65%，同期中国GDP平均增长率也会相应增加0.5个百分点，中国则有望实现4180亿美元的新增产值，这也表明了数字化带来的增长红利。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em; text-align: center;">
+    <img src="img/detail10/news-detail10.jpg" alt="1"/>
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em; text-align: center;">
+    （《数字化密度指数报告》国家得分排名）
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    中国的数字密度需要提高10分来获得巨额的数字化增长红利，但这并不容易实现。从上图可以看到，中国目前的数字化密度在17个主要经济体中排名仅列第十位，虽然领先日本、法国、意大利等发达国家，但居荷兰、美国、瑞典、韩国等国家之后，并有较大的差距。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    差距的弥补需要活力十足的市场与精准的宏观政策调控双重作用。就产业物联网发展而言，我国政府已经制定了多项政策支持该产业的发展。2013年，政府提出了到2020年固定和移动宽带数据网络用户达到12亿的目标，城市和农村家庭的宽带平均网速分别提高到20Mbps和4Mbps；《国家信息化发展战略》制定了中国数字经济发展的长远目标。除此之外，在微观层面，“互联网+”行动计划、《促进大数据发展行动纲要》等政策措施都将有力支持产业物联网的发展。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    中国政府多项政策的出台推动着产业物联网的发展，力争实现物联网的经济学价值；作为产业互联网的重要组成部分，产业物联网的红利也得到充分彰显，有望缓解中国增长放缓的生产率，促进跨行业生态系统的发展，目前而言，首要面临的是政策与执行间的碰撞。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    <strong style="font-style: inherit;">投入与产出的碰撞</strong>
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    中国中小企业数量众多，ICT水平参差不齐。同时，部分制造生产企业主对ICT的认知存在误区，认为简单地实施自动化即是ICT。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    虽有部分企业主意识到互联网转型需要将数字技术融入战略和组织的核心，对研发、供应链等运营模式进行重组，同时利用云计算、数据分析和客户关系管理等技术实现关键业务流程再造，但面对巨额的企业ICT投资成本，收益慢、效果不明显阻碍了企业信息化的发展速度。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    企业对与数字化、信息化的投入产出更趋于保守，这对于产业物联网的红利实现将造成严重的阻碍。值得欣慰的是，埃森哲对全球高管调查发现，相比其他国家，更多的中国企业高管认为，在不久的未来，数字技术将会对其企业起到重要作用，55%的中国企业高管认为，基于技术的生产率提升将是提高其竞争力的最主要因素，超过了技能、监管或基础设施等因素。
+</p>
+<p style="margin-top: 20px; margin-bottom: 20px; padding: 0px; text-indent: 2em;">
+    这对于产业物联网在最基础的落地层面意味着一线生机，将对企业数字化、信息化投入与产出的判定形成重要影响。
+</p>
+<p>
+    <br/>
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

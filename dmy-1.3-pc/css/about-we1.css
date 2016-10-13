@@ -1,0 +1,175 @@
+@charset "utf-8";
+/*banner*/
+.fullSlide .bd ul {
+	width: 100% !important;
+	height: 450px !important;
+}
+
+
+.fullSlide .bd li a img {
+	width: 100%;
+	height: 450px;
+}
+/*main*/
+@charset "utf-8";
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+
+.clearfix {
+    *height: 1%;
+}
+/*main*/
+.pdl-30{
+	padding-left:30px;
+}
+h3{
+	font-size: 14px;
+	color: #000000;
+	line-height: 40px;
+	font-weight: 500;
+}
+
+/*color*/
+.c-999{
+	color:#999;
+}
+.f-14{
+	font-size:14px;
+}
+/*text*/
+.text-left{
+	text-align: left;
+}
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+.new-main{
+	max-width:980px;
+	background: #fff;
+	height:auto;
+	width: 980px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+/*一级分类 左侧*/
+.l-tab{
+	width: 200px;
+	float:left;
+}
+.l-tab li{
+	float: left;
+	width: 100%;
+	/*height:50px;*/
+	line-height: 45px;
+	vertical-align: middle;
+	text-align: left;
+    padding-left: 20px;
+	font-size:18px;
+}
+.l-tab li.curr{
+	background:#3479ca;
+	color:#fff;
+}
+.two-tab {
+	clear:both;
+	
+}
+.two-tab li{
+	border-bottom:1px solid #bfbfbf;	
+	float: left;
+	background: #fff;
+	margin-left:-20px;
+}
+.two-tab li:last-child{	
+	border-bottom:none;
+}
+.two-tab li a{
+	font-size: 14px;
+}
+.two-tab li.focus{
+}
+.two-tab li.focus a{
+	color:#6b9bd4;
+	
+}
+
+.l-tab ul{
+}
+.l-tab p{
+	font-size:14px;
+	line-height: 30px;
+}
+/*右侧内容部分*/
+.right-side{
+	width:730px;
+	float:right;
+}
+/*右侧页面位置点指示*/
+.news-nav{
+	text-align: left;
+	border-bottom:1px solid #ccc;
+	font-size:18px;
+	font-weight: lighter;
+    line-height: 50px;
+    height: 45px;
+}
+.por{
+	text-align: right;
+    float: right;
+}  
+.icon-home-index{
+    width: 14px;
+    height: 14px;
+    vertical-align: middle;
+    padding-bottom: 3px;
+    padding-right:5px;
+}
+.icon-right{
+	width:11px;
+	height:11px;
+	vertical-align: middle;
+}
+
+/*模块详细介绍部分*/
+.aw-content-back{
+	width: 730px;
+	height: auto;
+	margin: 0 auto;
+}
+.aw-content{
+	width: 730px;
+	height: auto;
+}
+/*.content-left{
+	width: 672px;
+	height: 200px;
+	margin-right: 20px;
+	float: left;
+}*/
+.content-left-titl{
+	width: 730px;
+	height: 14px;
+	font-size: 14px;
+	line-height: 14px;
+	color: #3479CA;
+	margin: 40px auto;
+	text-align: center;
+}
+.content-left p{
+	width: 730px;
+	height: auto;
+	font-size: 14px;
+	line-height: 28px;
+}
+/*.aw-content img{
+	width: 288px;
+	height: 200px;
+	float: left;
+}*/
+
+.gap{
+	width: 100%;
+	height: 80px;
+}

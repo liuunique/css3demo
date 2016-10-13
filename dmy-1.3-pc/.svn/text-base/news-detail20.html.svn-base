@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<style type="text/css">
+					strong{font-size: 1pc;}
+				</style>
+				<p>
+    <br/>
+</p>
+<h1 style="margin: 0px; padding: 0px 0px 16px; font-size: 26px; font-weight: normal; font-family: 微软雅黑; text-align: center;">
+    9月起 这些新规将影响你的钱袋子！
+</h1>
+<p style="text-align: center;">
+    <span style="color: rgb(51, 51, 51); font-family: Arial, 微软雅黑; font-size: 14px; line-height: 30px; text-align: center; text-indent: 30px; background-color: rgb(255, 255, 255);">2016-09-02 9:15:16　点击数2146次</span>
+</p>
+<p>
+    <a><span style="position: absolute; right: 6px; top: 8px; width: 0px; height: 0px; font-size: 0px; line-height: 0; border-width: 4px; border-style: solid; border-color: rgb(139, 140, 142) rgb(255, 255, 255) rgb(255, 255, 255); transition: transform 0.2s ease-in; transform: rotate(0deg);"></span></a>
+</p>
+<p>
+    <span class="r all-number-comment" style="float: right; padding-left: 18px;"><a href="http://coral.qq.com/1524457810" target="_blank">2</a></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    9月1日起，将有一批新的法规陆续开始实施执行。①公积金提取材料“瘦身”；②互联网广告出新规，搜索广告遭限定；③9月6日起银行卡刷卡手续费下调...从全国到地方，这些新规将会影响你的衣食住行↓↓赶快看看！
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>1、公积金提取材料“瘦身”</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    从9月1日开始，国管公积金提取材料将“瘦身”。职工在办理住房公积金提取业务时，只需填写《住房公积金提取承诺书》，申报信息并作出承诺，之后凡是可以通过相关部门获取信息进行联网审核的，不再要求提供相关证明材料。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>2、互联网广告出新规，搜索广告遭限定</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    国家工商总局日前公布的《互联网广告管理暂行办法》于2016年9月1日起施行。《暂行办法》要求，互联网广告应当具有可识别性，显著标明“广告”，使消费者能够辨别其为广告。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    付费搜索广告应当与自然搜索结果明显区分。利用互联网发布、发送广告，不得影响用户正常使用网络。在互联网页面以弹出等形式发布的广告，应当显著表明关闭标志，确保一键关闭。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>3、9月6日起银行卡刷卡手续费下调</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《关于完善银行卡刷卡手续费定价机制的通知》将于9月6日起实施。通知要求，发卡机构收取的发卡行服务费将改为不区分商户类别，实行政府指导价、上限管理，并对借记卡、贷记卡差别计费。费率水平降低，借记卡交易不超过交易金额的0.35%，贷记卡交易不超过0.45%。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>4、20项“奇葩”证明，派出所不再开</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《关于改进和规范公安派出所出具证明工作的意见》9月1日起实施。意见明确，公民姓名、性别、身份证号码、户口迁移情况、住址变动情况等14项凭居民户口簿、居民身份证、护照能够证明的事项，及当事人婚姻状况、文化程度等6项应由主管部门出具证明、使用部门核查或依法办理公证的事项，派出所将不再出具证明。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>5、流动就业人员医保转接将有章可循</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《流动就业人员基本医疗保险关系转移接续业务经办规程》9月1 日起实施。根据规定，流动就业人员基本医疗保险关系可办理跨制度、跨统筹地区转移，参保人需要在转出地中止参保，及时参加转入地医保，随后在转出地办理转移申请。从转出到转入需45个工作日。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>6、这些学杂费将被免除</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    8月16日的国务院常务会议决定免除：
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    1、公办普通高中建档立卡家庭经济困难学生，含非建档立卡；
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    2、家庭经济困难残疾学生的学杂费；
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    3、对民办学校符合条件的学生，按照当地同类型公办学校标准给予补助。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>7、六类情形认定为学术不端</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《高等学校预防与处理学术不端行为办法》9月1日起施行。《办法》明确了六类学术不端情形，包括：剽窃、抄袭、侵占他人学术成果，篡改他人研究成果，伪造数据或捏造事实，不当署名，提供虚假学术信息，买卖或代写论文等。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>8、老年游客出行有保障</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《旅行社老年旅游服务规范》9月1日起实施，规定人数超过100人的老年团，需配随团医生；老年游客连续游览时间不宜超过3小时，连续乘车时间不超过3小时；此外，老年团的领队要具备物理救护技能。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>9、首部《慈善法》出台，税收有优惠</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    我国首部《中华人民共和国慈善法》自2016年9月1日起施行。《慈善法》共12章112条，明确了慈善组织、捐赠人、受益人三类慈善活动主要参与主体，享受税收优惠的权利；明确了对开展扶贫济困的慈善活动要实行更特殊的优惠。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>10、专利收费减缴最高可达85%</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《专利收费减缴办法》自2016年9月1日起施行，减缴力度最高可达85%。办法规定，对于申请费 （不包括公布印刷费、申请附加费）、发明专利申请实质审查费、年费（自授予专利权当年起六年内的年费）以及复审费，上年度月均收入低于3500元（年 4.2万元）的个人、上年度企业应纳税所得额低于30万元的企业以及事业单位、社会团体、非营利性科研机构可以减缴85%。两个或者两个以上的个人或者单 位为共同专利申请人或者共有专利权人的，减缴70%。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>地方：</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>1、上海：外卖平台不得“任性”送餐</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《上海市网络餐饮服务监督管理办法》9月1日起施行。办法提出了网络餐饮送餐环节食品安全要求。建立并执行送餐人员健康管理制度，取得健康证明。用于盛放食品的容器应当采取能够防止灰尘、雨水等污染的有效措施，送餐箱或者送餐包应当定期清洁、消毒。鼓励在食品容器或者外包装上标示食品制作烹饪时间和安全食用时限。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>2、南京：快递第三次投递可额外收费</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《南京市邮政条例》9月1日起正式实施。其中提出因收件人或者代收人原因，经两次免费投递后尚未投交的快件，收件人仍需投递的，经营快递业务的企业可以收取额外费用，但应当事先告知收件人收费标准。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>3、广东深圳：政策性入户条件放宽</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    《深圳市户籍迁入若干规定》9月1日起施行，相关入户条件放宽。如，老人投靠子女条件由“申请人身边无子女”调整为“申请人与被投靠人在深圳共同生活，被投靠人迁入深圳户籍连续满8年且仍拥有深圳户籍”，同时取消“老人身边是否有子女”的认定条件。夫妻投靠由“夫妻分居满三周年”调整为“夫妻分居满两周年”。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>4、陕西：今秋起正式实施13年免费教育</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    从秋季学期起，陕西全面实施包括幼儿园学前1年、9年义务教育和3年高中教育的免费教育。在民办普通高中就读的学生按照公办同类学校收费标准免除学费，高出免除标准部分由学生家庭负担。各级财政在原有生均800元公用经费补助基础上，按照省与市县各50%的比例分担免除的学费资金。
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    <strong>5、海南：团体票价优惠不得高于散客票价的20%</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 29px; padding: 0px; text-indent: 2em;">
+    新修订的《海南省旅游景区管理规定》9月1日起施行。《规定》明确，旅游景区实行无差别团体票，团体票价优惠幅度不得高于散客票价的20%，并应当在景区价格标志牌上标明。禁止向旅游者强行出售联票、套票。
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

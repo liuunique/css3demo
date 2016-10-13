@@ -1,0 +1,91 @@
+@charset "utf-8";
+/*banner*/
+.fullSlide .bd ul {
+	width: 100% !important;
+	height: 450px !important;
+}
+
+
+.fullSlide .bd li a img {
+	width: 100%;
+	height: 450px;
+}
+/*main*/
+.aw-nav{
+	width: 720px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 30px 130px;
+}
+.aw-nav ul{
+	width: 720px;
+	height: 50px;
+}
+.aw-nav li{
+	width: 135px;
+	height: 48px;
+	border-radius: 6px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 48px;
+	margin-right: 60px;
+	float: left;
+	cursor: pointer;
+}
+.no-select{
+	background: #c0c0c0;
+}
+.select{
+	background: #3479CA;
+}
+ul li:last-child{
+	margin-right: 0;
+}
+/*模块详细介绍部分*/
+.aw-content-back{
+	width: 980px;
+	height: auto;
+	margin: 0 auto;
+	display: none;
+}
+.aw-content-back:first-child{
+	display: block;
+}
+.aw-content{
+	width: 980px;
+	height: 180px;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+/*.content-left{
+	width: 672px;
+	height: 200px;
+	margin-right: 20px;
+	float: left;
+}*/
+.content-left-titl{
+	width: 980px;
+	height: 14px;
+	font-size: 14px;
+	line-height: 14px;
+	color: #3479CA;
+	margin-bottom: 35px;
+	text-align: center;
+}
+.content-left p{
+	width: 980px;
+	height: 131px;
+	font-size: 14px;
+	line-height: 28px;
+}
+/*.aw-content img{
+	width: 288px;
+	height: 200px;
+	float: left;
+}*/
+
+.gap{
+	width: 100%;
+	height: 80px;
+}

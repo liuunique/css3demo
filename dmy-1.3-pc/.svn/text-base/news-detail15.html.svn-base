@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<h2 class="title-h2" style="margin: 0px; padding: 0px; font-size: 22px; line-height: 65px; color: rgb(60, 60, 60); text-align: center;">
+    <span style="font-size: 24px;">剖析：实体零售企业与电商从相杀到相爱</span>
+</h2>
+<p style="text-align: center;">
+    <span class="time" style="line-height: 20px;">2016-08-08 10:45:25 &nbsp;浏览量：72</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">受经济下行和电商的冲击，实体零售压力大，百货、超市等传统业态经营形势尤为严峻，部分企业甚至出现负增长。曾京东收购1号店，另一个就是华润战略投资新美大等事件引起关注，实体零售企业与线上巨头从相杀到相爱！</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">实体零售业的萎靡原因，如何突出重围？</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; text-align: center; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px;"><img alt="" src="img/wKgGMFen7mKANxZvAAK-t3KtO_w904.png"/></span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">实体零售企业的生存状况称得上是艰难的，即便是前几年高歌猛进的永辉、大润发等明星企业的引擎也开始冷却。造成实体<strong>零售业的萎靡原因有以下几个方面：</strong></span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">一、租约到期后房租上涨：实体零售物业租约近期进入续签状态，租金肯定上涨，区别在于涨多张少。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">二、人工成本的上涨：某零售企业人工成本一年增长2个亿。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">三、新的对手的进入:shoppingmall冲击了百货卖场、社区连锁店(如百果园、美宜佳)则截留了大卖场的固有客流；电商巨头更是直接“开箱抢钱”。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">四、用户消费信心疲弱：新劳动法实施后，用户收入虽获得明显提升，但架不住房价、教育等刚性开支更加迅猛的上涨，这很大程度上会压缩生活类消费占比，提升用户价格敏感度</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">除了以上几点，更容易被忽视而且恰恰致命的一点就是零售业用户群的断层，年轻人未被充分吸引，用户规模在下降。这已不需要很严格的调研报告，在店铺内逛一逛就能很明显的感知。很多零售业者对此无感，因为99%的零售企业的都没有用户运营的概念，不清楚每天有多少来客数，也不知道有多少成交率，也不知道别人买了之后是好是坏。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">从人口出生情况来看，80年到90年这十年是中国人口出生高峰期，这个年龄段的人群既有人数规模、又有消费意愿也有消费能力，本应是零售业目前最应拢住的消费人群，但这类人群却被电商平台卷跑了。从阿里巴巴公布的数字来看，40岁以下的用户占到其用户群的88%！</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">其实很多零售业者在近三年都在尝试突围，突围的方向就是O2O，期望可以借此有力地阻击线上巨头的挤压。从目前运营情况来看没有一家零售业O2O算得上成功，这也导致了很多零售业者对此心灰意冷，认为O2O是个伪命题，只能算是对用户做的增值服务，对于企业的价值微乎其微。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;"><strong><span style="font-size: 14px;">失败原因有以下几点：</span></strong></span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">缺乏二次创业精神：零售业做电商不是简单的事情，而应是二次的创业。这需要像马化腾做微信、马云做天猫、刘强东做京东到家那样的魄力，自己革自己的命！现在零售业的总裁们有几个敢搏命式的堵上自己的职业生涯？这和在线下多开几间门店根本不是一回事。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">没有足够的钱来烧：但做电商是非常非常烧钱的，京东到现在还在烧钱、苏宁转型又烧了多少？即使创业企业都要融十亿乃至百亿来烧。而零售企业基本不敢也拿不出那么多钱。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">掌控不了流量入口：未来用户手机上的购物类APP只有两三个，你会是其中之一么？这就是流量入口的问题线上平台开发的再漂亮、功能再完善，没有流量就等于把一个实体店开在深山老林。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">团队建设的问题：零售业的电商运营人员往往都是从线下转过来的，不熟悉线上的打法，需要花很长的时间来转变；优秀人才往往又引进不来，因为电商巨头更舍得出钱；电商部门和零售部门缺乏融合等。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">“窗口”已经关闭：我很不想打击很多零售业者，但我了解越多越认为现在做电商平台的窗口期已过，电商巨头不会给后来者机会！</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">线上平台的新常态</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">毫无疑问，过去10年间，线上平台获得令人惊讶的发展速度，形成了几个线上的零售巨头，最具代表的是阿里和京东。他们的成功路径除了有卓越的团队以外，更重要是他们抓住了互联网发展的风口：</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">一方面是互联网消费人群集体上线，很多人开始上网是从淘宝买东西开始的，前文已经说过，这是最大规模最优质的消费群体。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">另一方面就是年轻创业者的逆袭，早期的很多卖家都是玩票赚点零花钱的，却突然让他们挖掘到了金矿，这鼓励了无数的年轻人加入了创业大军；最后就是实体零售业供应商的集体“叛变”，很长时间以来，供应商可算得上是仰仗零售企业鼻息生存的，而线上平台出现让这些供应商们突然发现找到了和零售业博弈的资本可以自己掌控命运了，有种翻身农奴的感觉。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">现在问题来了：该来的用户都已经来的差不多了，该进驻的商家也大都有进驻了，所以线上平台如果仍然按照过去方法获取高增长几乎不可能。如果不能继续通过扩大用户规模来拓展，那下一步一定是升级用户体验：深度挖掘用户更多的消费场景、占据用户更多的消费时间、提升用户的粘性。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">发展到用户升级体验阶段后，线上平台其实面临的挑战也很艰巨，因为用户对平台的要求不是一成不变而是越来越高的。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">配送体验：现在的电商平台配送往往是T+1、T+2，好像这是理所当然，因为大家都这个水平。但是当有其中一家获得优势后，立马会打破这种平衡，用户可能跟风就转了。此外快递式的配送成本也没有多少降低空间了。如果换个角度，零售商有现货大家库存可否共享？</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">商品品控：这方面往往被诟病最多的，其实平台也对假货深恶痛绝假货，只不过因为商家实在太多，平台往往只可能事后处理，需要商家自己有较强的品控意识和能力，但很多商家只为赚快钱，从而透支了平台的商誉。而零售企业往往在前端就严格控制。如何避免劣币驱逐良币？</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">消费过程体验：有些行业的生意是难以单纯通过线上解决，而这些往往又是绕不开的大蛋糕，其中典型的就是生鲜、家装及服务性行业。比如买菜这点小事，平台就很难满足用户挑选、一站式购齐、高时效性等非常复杂要求。再比如置办家当，家装类客单非常高所以用户在购买决策上用户会非常谨慎，往往会到线下门店看看实物反复斟酌后再决策。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">实体零售业毕竟有20年的品牌积累，也有一众忠诚用户；其次零售业有一套前端品控体系，用户信任程度较高。另外很重要一点就是，零售业有现货有库存，如果能和线上结合，那用户的体验就上来了。因此线上平台才会对实体零售业伸出橄榄枝，也是基于现实的需要。不然为什么京东会投永辉？淘汰那些低劣的小买家，引入更靠谱的零售企业，是符合平台利益的。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;"><strong><span style="font-size: 14px;">大循环：戏班子与戏园子</span></strong></span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">小结一下以上分析：实体零售面临成本增长、流量下滑、用户老龄的问题，但拥有较强的品牌优势、商品运营能力和众多实体网点；而线上平台往往拥有充沛的用户流量，也面临需要升级用户的体验，提升流量变现能力。因此我认为从战略上零售业和线上平台是相互需要的互为补充的，双方有很强的合作基础。现在是开启实体零售业与线上零售大整合的时代了，从而真正建立线上线下的大循环。从笔者近期观察的某些生鲜零售企业和线上平台的合作情况来看，效果很是明显。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;"><strong><span style="font-size: 14px;">对于实体零售业来说，这种大循环有几个好处：</span></strong></span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">优质用户群的低成本导入：现在获取用户成本最低的方式可能就是从线上平台，无论你是做线下推广、自媒体推广、广告推广转化率都极低，因此成本非常高昂。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">补齐你错失的消费场景：实体零售要求用户必须到店购买，但是随着生活节奏的加快到店消费变得成为一种负担，因为需要附加时间成本、交通成本，所以用户往往会选择线上渠道。另外即使忠诚用户也起码有30%的消费场景是错失了的，比如天气不好、比如加班没时间、比如塞车、比如我要接送孩子、比如死宅死懒等</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">“航母效应”：如果和线上平台的合作，让零售企业单个门店的流量获得较大的补充，可以覆盖更多的用户群，那么便可以关停那些日益亏损的分店呢，从而甩开包袱。生意没减少，但是经营成本却可能降低一截，少亏就是赚！</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">空军+陆军的立体式打法：零售业往往擅长对进店用户抓成交率，不擅长对用户进行广度的运营。做过零售企业的会发现，有时候你在门店做了很低的折扣甚至远低于线上售价，但实际销售结果并不理想。原因就是你没有“空军”，无法把信息精准及时达到目标用户并互动起来，而线上可以做到精准打击。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">精准选址：实体门店有50%是靠运营50%靠选址。而线上平台在大数据基础上非常清楚用户的地理分布、消费习惯、消费能力等，这些对于实体零售企业来说是非常宝贵的信息。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">优化商品供应链：从商品组合来说，线上平台是覆盖线下的。而实体零售往往面临着供应资源的不足、产品更新滞后问题。而线上的商品销售大数据可以帮助实体零售精准选品。笔者有个同学专门从线上采购各种潮款鞋子，然后放到线下的门店零售，生意很是红火，他卖的是服务。</span>
+</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0px; color: rgb(60, 60, 60); line-height: 25px; text-indent: 2em; font-family: tahoma, &quot;Microsoft Yahei&quot;, &quot;Hiragino Sans GB&quot;, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 16px;">贴身学习别人运营的方法论：客观说电商平台的运营逻辑是脱胎于实体零售业，但他们形成了更系统的方法论，这方面是值得零售业去研究和学习的，达者为师嘛。举个小例子，我看过某天猫卖家的后台运营分析数据，可以秒杀很多零售业的BI。</span>
+</p>
+<p>
+    <br/>
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>

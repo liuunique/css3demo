@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻动态</title>
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/news-jquery.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav"></div>
+		<!--banner-->
+		<!--本页面广告静止不动，代码处理ul-li-a-img首个就可以-->
+		<!--预留开发滚动广告-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner"/><div class="clear"></div></a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner"/><div class="clear"></div></a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg"  alt="banner"/><div class="clear"></div></a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg"  alt="banner"/><div class="clear"></div></a>
+					
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--预留滚动广告脚本-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<!--focus 类样式去掉-->
+							<li class="">
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="news.html">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙天玺</p>
+			</div>
+			<!-----------------------End 左侧tab导航----------------------->
+			<!-----------------------begin 右侧列表区----------------------->
+			<div class="right-side pdl-30">
+				<h2 class="news-nav clearfix">公司新闻 
+					<span class="text-right por"><img  src="img/nav-home.png" alt="" class="icon-home-index"/>当前位置：
+						<a href="javascript:void(0)"><span class="">首页 </span></a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />公司新闻</a>
+					</span>
+				</h2>
+				<div>
+				<!--1-->
+			    <ul class="news-list">
+			   		<li>
+			   			<a href="news-detail01.html">
+			   				<img class="l-img" src="img/news-pic-1.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>网络直播如何在“互联网+”时代活下来？</h3>
+				   				<div>时间：2016-07-01 08:49</div>
+								<div class="t-ellipsis">网络直播的出现是时代发展的产物，无论人们接受与否，其都“纽结”在互联网生态的产生、存在和发展中。互联网产业已经成为经济社会发展的有力支撑...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail02.html">
+			   				<img class="l-img" src="img/news-pic-2.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>股市将迎重大利好！这次国务院出手了</h3>
+				   				<div>时间：2016-09-02 14:56</div>
+								<div class="t-ellipsis">股市将迎重大利好！这次国务院出手了。国务院总理李克强9月1日主持召开国务院常务会议，强调要发挥主板、创业板和地方性股权交易场所功能...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail03.html">
+			   				<img class="l-img" src="img/news-pic-3.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>丢掉手机、电脑，华硕将发布多款独立VR设备</h3>
+				   				<div>时间：2016-09-03 07:43</div>
+								<div class="t-ellipsis">目前，虚拟现实头戴设备已经被认为是人们的PC设备，而华硕似乎也有这方面的计划。这家公司在柏林IFA展会上宣布，他们将会开发自家的虚拟现实产...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail04.html">
+			   				<img class="l-img" src="img/news-pic-4.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>你适合创业还是老老实实上班？看完就知道了！</h3>
+				   				<div>时间：2016-06-18 16:56</div>
+								<div class="t-ellipsis">很多人都想着要创业，但又担心失败，不确定自己是否能够创业，那今天我们就这个问题来分析下什么样的人适合创业，什么样的人适合上班呢？创业和工...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		
+			    </ul>
+			    <!--2-->
+			    <ul class="news-list" style="display: none;">	   		
+			   		<li>
+			   			<a href="news-detail05.html">
+			   				<img class="l-img" src="img/news-pic-5.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>先接单再爽约，网约车咋还挑肥拣瘦？</h3>
+				   				<div>时间：2014-06-21 11:24</div>
+								<div class="t-ellipsis">先接单再爽约，网约车为何越来越难约？前天晚上，记者接市民报料“晚上八九点钟在北京路手机约车屡遭爽约”。记者到北京路调查发现，网约车先接单...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail06.html">
+			   				<img class="l-img" src="img/news-pic-6.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>农业农村信息化“十三五”规划发布</h3>
+				   				<div>时间：2016-09-02 14:26</div>
+								<div class="t-ellipsis">《“十三五”全国农业农村信息化发展规划》9月1日发布，提出到2020年，“互联网+”现代农业建设取得明显成效，农业农村信息化水平明显提高，信息技...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail07.html">
+			   				<img class="l-img" src="img/news-pic-7.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>农发行助力我省国家战略规划 61.8亿元贷款一次落地</h3>
+				   				<div>时间：2014-09-03 11:24</div>
+								<div class="t-ellipsis">9月2日，记者从农发行河南省分行获悉，该行近日向郑州航空港经济综合实验区发放易地代保项目贷款61.8亿元。这笔贷款是该行建行以来单个项目获...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail08.html">
+			   				<img class="l-img" src="img/news-pic-8.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>百度大脑，人工智能改变世界有三步</h3>
+				   				<div>时间：2016-09-02 16:53</div>
+								<div class="t-ellipsis">2016年的百度世界大会上，百度大脑终于亮相，百度CEO李彦宏向在场所有人展示了百度大脑目前的技术能力，以及其在各个生活场景方面的应用。...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			    </ul>
+				<!--3-->  
+				<ul class="news-list" style="display: none;">
+			   		<li>
+			   			<a href="news-detail09.html">
+			   				<img class="l-img" src="img/news-pic-9.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>30年前面试被拒，马云终买下KFC...</h3>
+				   				<div>时间：2016-09-03 08:09</div>
+								<div class="t-ellipsis">30年前面试被拒，马云终买下KFC；商务部开展滴滴优步合并反垄断调查；俞敏洪卸任CEO董明珠又在隔空喊话雷军：小米的估值还敢那么高吗？...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail10.html">
+			   				<img class="l-img" src="img/news-pic-10.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>物联网，中国市场上演的精彩碰撞</h3>
+				   				<div>时间：2016-01-18 15:51</div>
+								<div class="t-ellipsis">“未来，每粒沙子都可能拥有自己的IP地址。”现在看来，这种描述似乎是天马行空，但不可否认的是，这是我见到的对物联网产业未来发展最为精...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail11.html">
+			   				<img class="l-img" src="img/news-pic-11.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>互联网广告戴上紧箍：重罚10万元也许远远不够</h3>
+				   				<div>时间：2016-9-2 07:59</div>
+								<div class="t-ellipsis">饱受争议的互联网广告，将被戴上新的紧箍。9月1日起，由国家工商总局发布的《互联网广告管理暂行办法》（以下称《暂行办法》）正式开始施行...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail12.html">
+			   				<img class="l-img" src="img/news-pic-12.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>6位数的支付密码大有来头！</h3>
+				   				<div>时间：2016-09-02 16:24</div>
+								<div class="t-ellipsis">以前我一直想不通一个问题，为什么像银行取款密码微信支付宝等都只输入6位数的支付密码呢，难道不是越多越复杂越安全吗？今天看到一篇文章...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			    </ul>
+			    <!--4-->  
+				<ul class="news-list" style="display: none;">
+				   		<!--edit-->
+			   		<li>
+			   			<a href="news-detail13.html">
+			   				<img class="l-img" src="img/news-pic-13.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>数字支付平台崛起：信用卡产品数量正在锐减</h3>
+				   				<div>时间：2016-09-03 06:30</div>
+								<div class="t-ellipsis">彭博社今天撰文称，数字支付平台的崛起对亚洲信用卡行业造成了影响，使得他们减少信用卡种类，集中精力发展支持网上支付的信用卡，借此节约成本，吸引更多用户。...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail14.html">
+			   				<img class="l-img" src="img/news-pic-14.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>facebook全球化遇阻，微信迎来最大发展契机</h3>
+				   				<div>时间：2016-09-03 08:11</div>
+								<div class="t-ellipsis">欧界报道：今早关于“钢铁侠”马斯克的Space X火箭在试飞前爆炸的消息火速刷屏，正在非洲尼日利亚进行考察的扎克伯格恐怕是听到这个消息后最难过的人了。Amos 6卫星...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail15.html">
+			   				<img class="l-img" src="img/news-pic-15.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>剖析：实体零售企业与电商从相杀到相爱</h3>
+				   				<div>时间：016-08-08 10:45:</div>
+								<div class="t-ellipsis">受经济下行和电商的冲击，实体零售压力大，百货、超市等传统业态经营形势尤为严峻，部分企业甚至出现负增长。曾京东收购1号店，另一个就是华润战略投资新美大等事...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail16.html">
+			   				<img class="l-img" src="img/news-pic-16.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>疯狂的太空火车概念设计：秒速3000公里37小时抵达火星</h3>
+				   				<div>时间：2016-09-02 08:22</div>
+								<div class="t-ellipsis">近日有人提出了一种疯狂的“列车”概念，这可比一般的火车快得多。这是一种“太空列车”，它会以很高的速度运行，从不减速　　近日有人提出了一种疯狂的“列车”概念，这...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			    </ul>
+			   	<!--5-->  
+				<ul class="news-list" style="display: none;">
+			   		<li>
+			   			<a href="news-detail17.html">
+			   				<img class="l-img" src="img/news-pic-17.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>前奏！来杭州前，习近平这么谈G20</h3>
+				   				<div>时间：2016-09-02 10:15:</div>
+								<div class="t-ellipsis">二十国集团（G20）领导人峰会尚未正式开幕，但习近平主席的“G20时间”已经开始——8月31日，习近平主席在北京钓鱼台国宾馆会见了两位来华出席杭州峰会的外方领导人。...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail18.html">
+			   				<img class="l-img" src="img/news-pic-18.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>Visa将首次测试区块链结算支付系统</h3>
+				   				<div>时间：2016-09-02 20:50</div>
+								<div class="t-ellipsis">新浪科技讯 北京时间9月2日晚间消息，国际信用卡组织Visa日前宣布，将把区块链(blockchain)技术应用到银行间结算和支付领域。这项测试将通过Visa伦敦创新中心Visa...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail19.html">
+			   				<img class="l-img" src="img/news-pic-19.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>智能眼镜相机 眨眨眼就能拍照</h3>
+				   				<div>时间：2016-09-01 17:54</div>
+								<div class="t-ellipsis">【科技讯】9月1日消息，说到拍照，我们印象里的相机无非是单反或者数码相机之类，但都需要手持操作，而日本设计师的产品则改变了我们这种传统思路。日本设计师设计了一...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			   		<li>
+			   			<a href="news-detail20.html">
+			   				<img class="l-img" src="img/news-pic-20.png" alt="" />
+			   				<div class="r-text">
+				   				<h3>9月起 这些新规将影响你的钱袋子！</h3>
+				   				<div>时间：2016-09-02 09:42</div>
+								<div class="t-ellipsis">9月1日起，将有一批新的法规陆续开始实施执行。①公积金提取材料“瘦身”；②互联网广告出新规，搜索广告遭限定；③9月6日起银行卡刷卡手续费下调...从全国到地方，这些新规将...</div>　
+			   				</div>
+			   			</a>
+			   		</li>
+			    </ul>
+				</div>
+			   <!-----------------------分页----------------------->
+				<div id="pageGro" class="cb">
+					<div class="pageUp">首页</div>
+				    <div class="pageList">
+				        <ul>
+				        	<li class="on">1</li>
+				        	<li>2</li>
+				        	<li>3</li>
+				        	<li>4</li>
+				        	<li>5</li>
+				        </ul>
+				    </div>
+				    <div class="pageDown">下一页</div>
+				    <div class="pageLast">末页</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot"></div>
+		<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>
+	</body>
+</html>

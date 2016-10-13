@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav"></div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<h3 style="margin: 5px auto 10px; text-align: center; padding: 0px; font-stretch: normal; font-size: 24px; line-height: 57px; font-family: 微软雅黑; clear: both; color: rgb(34, 34, 34);">
+    网络直播如何在“互联网+”时代活下来？
+</h3>
+<p style="text-align: center;">
+    <span style="font-size: 16px; color: rgb(89, 89, 89); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">时间：2016-9-2:12:00 &nbsp;阅读量：5236次</span><span style="font-size: 24px;"><br/></span>
+</p>
+<p>
+    原标题：网络直播如何在“互联网+”时代活下来？
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 0em; color: rgb(34, 34, 34);">
+    <img alt="" src="http://www.people.com.cn/mediafile/pic/20160701/73/6637992767062652461.jpg"/>
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    6月27日，2016夏季达沃斯论坛现场，比亚迪总裁王传福在进行网络直播。（资料图片）
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 18px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    网络直播究竟有多“火”？
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    网络直播的出现是时代发展的产物，无论人们接受与否，其都“纽结”在互联网生态的产生、存在和发展中。互联网产业已经成为经济社会发展的有力支撑。据资料显示，网络直播的市场规模约为90亿元，网络直播平台用户数量已经达到2亿人。此外，与直播息息相关的“网红产业”预计在2016年的产值接近580亿元，远超2015年中国电影440亿元的票房金额。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    只需一部手机一个账号，人人都可以变成“直播车”。直播门槛的降低，不仅让普通人可以尝试一把“现场秀”，而且让网络直播成了当下最热的创业“风口”。巨大的商机催生了秀场、演艺、体育、电竞、教育、明星等各类直播形态，也让网络直播俨然成了当下最火的虚拟产业。然而令人揪心的是，网络直播寂寞无聊的“空心游戏”却令人担忧。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 18px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    网络直播行业乱象丛生
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    网络直播催生了一大批“网红”，大量网民通过围观、送虚拟礼物、语言互动等方式“捧场”。而对于网站来说，最重要的是流量。网民逗留时间越长，网站就可以获得更多的广告和更多的投资。从这个角度说，看起来各种网络媒介提供了一个平台，让普通人自己生产内容，通过PK产生“网红”，但是网络平台是最大的赢家，一大批“网红”为其提供了廉价内容，吸引并且黏住了更多的网民。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    直播平台众多，看似红红火火，实际上大部分仍处于初创阶段。行业乱象丛生，比如粉丝数量造假。据媒体调查，某直播平台的刷粉率高达九成，这是行业虚假繁荣的真实写照。目前许多直播平台都在亏损，或者是靠融资在支撑，然而，这样的烧钱行为终究不可能持续。为网络直播产业烧钱的金主，归根结底看中的还是利益和回报。网络直播江湖的喧闹还能持续多久，尚需时间来验证，唯有等热潮退去之后才知道谁在“裸泳”。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 18px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    以阳光心态看待这一新兴行业
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    行业发展基本都会经历从不规范到规范的过程。我们应该给予网络直播行业一个自我改善和逐步规范的时间，公众也应该抱以宽容的态度。有目共睹的是，这一行业的自律意识在逐步加强，国家有关部门也开始着手促进这一行业的规范发展。网络直播是一个新兴事物，背后隐藏着巨大的市场需求。顺应网络时代发展，让网络直播成为创造价值的助力之一，“天塌不下来”。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    做网络直播虽然“零门槛”，但也不是谁想做就能做得好、做出效益的。尤其是在扫黄打非、净化网络环境的大环境下，能够不违规违法，凭着自己的才能成为“网红”，其中的智慧和创新含量本身就是一项了不起的付出。平心而论，只要通过严格的管理和正确引导，网络直播不仅能够成为一种“新职业”，给主播带来不菲的收入，对社会更可发挥出健康向上的积极作用。无论政府还是社会都应当以阳光的心态来看待这一新的“经济增长点”，努力做出经济大文章才是适应时代发展的理性所为。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    要想做大做强网络直播产业，亟须从以下三方面发力：一是经营理念需转型。无论是企业还是个人直播平台，都应树立“内容为王”的经营理念，努力生产网民喜闻乐见、寓教于乐的视频内容。二是网络直播监管需加强。加强网上巡逻，畅通举报渠道，建立抽查制度，对粗制滥造、低俗下流、色情暴力等内容进行严厉打击。三是网民自律水平需提高。自觉抵制空心化、低俗化、庸俗化的视频内容，让其无立锥之地。唯有如此，网络直播才能走上健康的发展之路。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 18px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    微言大义：
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    @摩天小7楼：啥都能被直播……
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    @只谈论政治：话说这年头做直播也挺赚钱的。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    @泼妇时代：现在网络直播都这么神奇了么？突然间觉得，全世界只有我没有直播。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    @金华洗衣：这是个随时随地都能产生网红的时代。
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 18px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    中国经济网编后语：
+</p>
+<p style="margin-top: 25px; margin-bottom: 25px; padding: 0px; font-stretch: normal; font-size: 16px; line-height: 32.4px; font-family: 微软雅黑; text-indent: 2em; color: rgb(34, 34, 34);">
+    对网民来说，如果你愿意，现在就可以下载、点开手机软件，开始网络直播之旅。就这么简单。而对整个网络直播行业来说，要想在“互联网+”时代的创新创业大潮中活下来，则必须要对互联网思维和市场法则等生存之道给予充分尊重，对法律法规乃至公序良俗等边界底线抱以足够敬畏。如何在合情合理、合法合规的前提下，发挥特色优势，抓住发展机遇，真正成长为中国经济新的稳定增长点，这是一个绕不过的话题。
+</p>
+<p>
+    <br/>
+</p>	</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+<<<<<<< .mine
+		<div class="footer">
+			<div class="all-bottom">
+				<div class="bottom-lef">
+					<p>
+						<a href="index.html">主页</a> |
+						<a href="about-we.html">关于我们</a> |
+						<a href="news.html">新闻动态</a> |
+						<a href="case.html">成功案例</a> |
+						<a href="job.html">人才招聘</a> |
+						<a href="tel-me.html">联系我们</a>
+					</p>
+					<p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：
+						<a href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+				</div>
+				<div class="bottom-righ">
+					<p>关注我们</p>
+					<div class="attention">
+						<a href="#"><img src="img/index/weibo.png" /></a>
+						<a href="#"><img src="img/index/qq.png" /></a>
+						<a href="#"><img src="img/index/wechat.png" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+=======
+		<div id="foot"></div>
+		<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>
+>>>>>>> .r2401
+	</body>
+</html>

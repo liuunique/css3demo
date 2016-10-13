@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/job.css"/>
+		<link rel="stylesheet" type="text/css" href="css/job-information.css" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<style type="text/css">
+			.navback #nav5 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>招聘信息</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav"></div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/job-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						人才招聘 
+						<ul class="two-tab">
+							<li>
+								<a href="job.html">人才理念</a>
+							</li>
+							<li class="">
+								<a href="">招聘信息</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<!--招聘信息标题-->
+				<h2 class="news-nav clearfix">招聘信息
+					<span class="text-right por"><img  src="img/nav-home.png" alt="" class="icon-home-index"/>当前位置：
+						<a href="javascript:void(0)"><span class="">首页 </span></a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />人才招聘</a>
+						<a href="avascript:void(0)"><img src="img/icon-right.png" alt="" class="icon-right" />招聘信息</a>
+					</span>
+				</h2>
+				<!--<div class="talent-title">
+					<p>招聘信息</p>
+					<img src="img/zuobiao.png" />
+					<p>当前位置：首页>人才招聘><font style="color: #000000 !important;">招聘信息</font></p>
+				</div>-->
+				<!--招聘信息详细内容-->
+				<div class="position-moduel">
+					<div class="position">
+						<p>WEB前端开发工程师</p>
+						<p>郑州多美源网络科技有限公司</p>
+						<p>6000-8000元/月 </p>
+						<p>2016-06-23</p>
+					</div>
+					<div class="information2">
+						<p>地点：郑州-二七区</p> <p>公司性质：股份制企业 </p><p>公司规模：20-99人</p> <p>经验：1-3年</p><p>学历：大专 </p><p>职位月薪：6001-8000元/月</p> 
+					</div>
+					<div class="skill">
+						岗位职责： 1、负责将设计图转化成HTML静态页面； 2、负责PC与移动端的web前端开发工作，并且和设计师、后端工程师紧密沟通协作； 3、积极探索优化页面的结构和性能； 4、工作主要在技术方面，主导前台项目设计工作 5、使用HTML5、CSS3及JavaScript完成HTML界面布局开发； 6、配合UI设计师，...
+					</div>
+					<div class="apply">
+						<input type="button" value="申请职位" class="applybtn" />
+					</div>
+				</div>
+				<!--招聘信息详细内容-->
+				<div class="position-moduel">
+					<div class="position">
+						<p>微信运营经理助理/文案编辑 </p>
+						<p>郑州多美源网络科技有限公司</p>
+						<p>2000-4000元/月 </p>
+						<p>2016-06-23</p>
+					</div>
+					<div class="clear"></div>
+					<div class="information2">
+						<p>地点：郑州-二七区</p> <p>公司性质：股份制企业 </p><p>公司规模：20-99人</p> <p>经验：1-3年</p><p>学历：大专 </p><p>职位月薪：2000-4000元/月</p> 
+					</div>
+					<div class="clear"></div>
+					<div class="skill">
+						【你来了做什么？】 ·公司微信账号日常运营、策划、推广，文案撰写发布等相关工作 ·快速响应社会行业热点问题，寻找业务与热点的结合点，并和团队共同创作热点话题内容，提升微信/微博账号的关注度 ·微信运营策略的制定及执行，线上线下活动策划；与平面设计沟通执行，媒体跟踪和反馈 
+					</div>
+					<div class="apply">
+						<input type="button" value="申请职位" class="applybtn" />
+					</div>
+				</div>
+				<!--招聘信息详细内容-->
+				<div class="position-moduel">
+					<div class="position">
+						<p>UI设计师</p>
+						<p>郑州多美源网络科技有限公司</p>
+						<p>4000-6000元/月</p>
+						<p>2016-06-23</p>
+					</div>
+					<div class="clear"></div>
+					<div class="information2">
+						<p>地点：郑州-二七区</p> <p>公司性质：股份制企业 </p><p>公司规模：20-99人</p> <p>经验：1-3年</p><p>学历：大专 </p><p>职位月薪：4000-6000元/月</p> 
+					</div>
+					<div class="clear"></div>
+					<div class="skill">
+						岗位职责： 1，独立完成PC端网页与APP应用UI界面设计； 2，提升系统用户体验与操作易用性； 3，UE交互设计、UI视觉设计； 4，设计风格定位； 5，界面排版与布局； 6，参与前端开发过程。（会写前端页面优先录用） 任职要求： 1、精通Photoshop、AI、corldraw等设计软件，熟悉HTM...
+					</div>
+					<div class="apply">
+						<input type="button" value="申请职位" class="applybtn" />
+					</div>
+				</div>
+				<!--招聘信息详细内容-->
+				<div class="position-moduel">
+					<div class="position">
+						<p>市场策划文案</p>
+						<p>郑州多美源网络科技有限公司</p>
+						<p>4000-6000元/月 </p>
+						<p>2016-06-23</p>
+					</div>
+					<div class="clear"></div>
+					<div class="information2">
+						<p>地点：郑州-二七区</p> <p>公司性质：股份制企业 </p><p>公司规模：20-99人</p> <p>经验：1-3年</p><p>学历：大专 </p><p>职位月薪：4000-6000元/月</p> 
+					</div>
+					<div class="clear"></div>
+					<div class="skill">
+						有耐心，且要有较强的责任心、团队意识和较好的沟通能力；具备一定的电脑知识及网络操作知识以及能熟练使Office软件，打字速度在50字/分钟；较好的文字处理能力和逻辑判断能力，善于收集、整理各类文档；能承受压力，适应加班者；标准普通话，口齿清晰，具有亲和力；有网络客服工作经验者优先；大专以上学历。
+					</div>
+					<div class="apply">
+						<input type="button" value="申请职位" class="applybtn" />
+					</div>
+				</div>				
+			</div>
+		<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot"></div>
+		<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>
+	</body>
+</html>

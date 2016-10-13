@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<h2 class="news-title">京东“结盟”沃尔玛拿下1号店主要资产</h2>
+					<div class="text-center f-14">2014-06-24 11:24　　点击数:146566</div>
+				    <div> 
+				    	<p>北京时间周二凌晨，京东与沃尔玛宣布达成战略合作协议。作为此次协议的一部分，沃尔玛将获得京东新发行的144,952,250股A类普通股，约为京东发行总股本数的5%。同时双方将在多个战略领域进行合作，包括： 京东将拥有1号商城主要资产，包括“1号店”的品牌、网站、APP。沃尔玛将继续经营1号店自营业务，并入驻1号商城。沃尔玛旗下山姆会员店将在京东网站开设旗舰店。 沃尔玛与京东将联手，利用各自供应链扩大中国消费者的商品选择范围，包括增加进口产品种类。 </p>
+     					<p>沃尔玛中国门店将被列为国内最大众包物流平台——京东旗下O2O运力平台达达的优先服务级别零售商，顾客在沃尔玛门店订购的商品可以两小时内送达。沃尔玛将继续经营自有实体店。 通过京东近一年以来的战略布局可以看出，京东此番与沃尔玛的合作，重点在于三个方面，即通过沃尔玛在零售方面的资源优势强化京东在O2O领域的业务布局、借势沃尔玛的海外资源实现全球化战略以及通过1号店弥补京东在华东地区的市场短板。 强化O2O业务 去年8月7日，京东43.1亿元投资永辉超市，与其签订了战略合作框架协议。通过这一交易，京东将持有永辉超市10%的股份。</p>				
+     					<p>去年底，永辉超市与京东O2O业务正式对接。 在今年4月，京东到家与众包物流平台“达达”进行合并，合并后，京东集团将拥有新公司47%的股份并成为单一最大股东。刘强东在内部信透露，“合并后的O2O平台会继续沿用’京东到家’的品牌，通过与线下商超、零售店和便利店等多种业态的深度合作，在超市生鲜领域持续深耕。” 从上述两个大动作可以看出，京东对于其新业务O2O可谓是操碎了心。此次，京东和沃尔玛的合作也将在供应链端展开，沃尔玛在中国的实体门店将接入京东集团投资的众包物流平台“达达”和O2O电商平台“京东到家”。 值得一提的是，2016年一季度财报中，京东提到以O2O、金融 等为代表的新业务在第一财季亏损6亿。此次，与沃尔玛的联盟或将让京东从O2O业务的亏损状态中得到扭转。 弥补华东市场短板
+东“结盟”沃尔玛拿下1号店主要资产。</p>
+				    	</p>
+				    </div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->-->
+	</body>
+</html>

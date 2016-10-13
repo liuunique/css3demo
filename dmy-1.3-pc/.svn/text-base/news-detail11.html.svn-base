@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+<script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="renderer" content="webkit">
+		<link rel="stylesheet" type="text/css" href="css/base.css"/>
+		<link rel="stylesheet" type="text/css" href="css/base-banner.css"/>
+		<link rel="stylesheet" type="text/css" href="css/news.css"/>
+		<link href="img/icon.ico" rel="shortcut icon" />
+		<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<style type="text/css">
+			.navback #nav3 {
+				background: #3479ca;
+				color: #FFFFFF;
+			}
+		</style>
+		<title>新闻详情</title>
+	</head>
+	<body>
+		<!--head-module-->
+		<div id="nav">
+		
+		<!--head-module-->
+<!--top-->
+<div class="topback h20">
+    <div class="top w980 h20 margin-middle">
+        <div class="topleft fl">全国免费咨询：400-6656-079</div>
+        <div class="topright fr">
+            <a href="tel-me.html">联系我们</a> |
+            <a href="job.html">加入我们</a>
+        </div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="navback w980 h110 margin-middle">
+    <a href="index.html"><img src="img/logo.png" alt="logo"/></a>
+    <a href="index.html">
+        <div class="nav" id="nav1">主页</div>
+    </a>
+    <a href="about-we1.html">
+        <div class="nav" id="nav2">关于我们</div>
+    </a>
+    <a href="news.html">
+        <div class="nav" id="nav3">新闻动态</div>
+    </a>
+    <a href="case.html">
+        <div class="nav" id="nav4">成功案例</div>
+    </a>
+    <a href="job.html">
+        <div class="nav" id="nav5">人才招聘</div>
+    </a>
+    <a href="tel-me.html">
+        <div class="nav" id="nav6">联系我们</div>
+    </a>
+</div>
+	</div>
+		<!--banner-->
+		<div class="fullSlide">
+			<div class="bd">
+				<ul>
+					<li>
+						<a href="#"><img src="img/news-banner.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner2.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner3.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+					</li>
+					<li>
+						<a href="#"><img src="img/banner4.jpg" alt="banner" />
+							<div class="clear"></div>
+						</a>
+
+					</li>
+				</ul>
+			</div>
+			<div class="hd" hidden="hidden">
+				<ul>
+					<li class="on">1</li>
+					<li class="">2</li>
+					<li class="">3</li>
+					<li class="">4</li>
+				</ul>
+			</div>
+			<!--左右按钮隐藏不用
+			<span class="prev"></span>
+			<span class="next"></span>-->
+			<!--jquery引入-->
+			<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+			<script src="js/superslide.js" type="text/javascript" charset="utf-8"></script>-->
+			<!--禁止jquery提到顶部-->
+			<!--<script src="js/about-we-jquery.js" type="text/javascript" charset="utf-8"></script>-->
+		</div>
+		<!--main-->
+		<div class="new-main">
+			<!-----------------------左侧tab导航----------------------->
+			<div class="l-tab"> 
+				<ul>
+					<li class="curr">
+						新闻动态 
+						<ul class="two-tab">
+							<li>
+								<a href="news.html">公司新闻</a>
+							</li>
+							<li>
+								<a href="">行业新闻</a>
+							</li>
+						</ul>
+					</li>
+					<li class="curr">
+						联系我们 
+					</li>
+				</ul>
+				<p>郑州多美源网络科技有限公司</p>
+				<p>免费热线：400-6656-079</p>
+				<p>固话：0371-63315335</p>
+				<p>地址：郑州市大学路升龙广场</p>
+			</div>
+			<!-----------------------右侧内容区----------------------->
+			<div class="right-side pdl-30">
+				<h1 style="margin: 0px; padding: 0px; font-weight: 500; font-size: 2.2em; font-family: &quot;Microsoft YaHei&quot;; line-height: 1.5; text-align: center;">
+    互联网广告戴上紧箍：重罚10万元也许远远不够
+</h1>
+<p>
+    <span class="pt_info pre1" style="padding: 5px 5px 0px; display: block; color: rgb(136, 136, 136); text-align: center;"><span id="pubtime_baidu" style="padding: 0px 5px;">2016-9-2 7:59:33 点击数526485次</span></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    饱受争议的互联网广告，将被戴上新的紧箍。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;9月1日起，由国家工商总局发布的《互联网广告管理暂行办法》（以下称《暂行办法》）正式开始施行。《暂行办法》明确规定，凡是互联网上（包括微信、微博）发布的广告，都要标注“广告”两字，违规者不仅受到行政处罚，还将面临最高10万元的罚款。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;其中，曾经因为“魏则西事件”备受指责的付费搜索，也明确被界定为广告。在此之前，这些排在搜索引擎前列的信息并未标明“广告”，因此对消费者造成了很大的误导。在新规实施后，这些付费搜索将被打回原型，与其他形式的互联网广告一起接受监管。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;不过，最高10万元的罚款对互联网广告平台或很难形成约束。尤其是在医疗、保健等领域，搜索平台或很难通过技术进行审查，这一顽疾也难以杜绝和清除。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px; text-align: center;">
+    <img src="img/20160902_075817_361.png" alt="互联网广告戴上紧箍：重罚10万元也许远远不够"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    <span style="font-weight: 700;font-size: 20px;">广告推广需明示</span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;在以往的搜索平台、新闻客户端、社交应用等界面上，几乎所有的广告都未被打上“推广”的标签，以后这种行为会涉嫌违规。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;目前，《暂行办法》采用了外延描述的方法对互联网广告进行了界定，其规定：“本办法所称互联网广告，是指通过网站、网页、互联网应用程序等互联网媒介，以文字、图片、音频、视频或者其他形式，直接或者间接地推销商品或者服务的商业广告。”
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;此外，该规定还列举了互联网广告包括的类型，分别是推销商品或者服务的含有链接的文字、图片或者视频等形式的广告；推销商品或者服务的电子邮件广告；推销商品或者服务的付费搜索广告；其他通过互联网媒介推销商品或者服务的商业广告等。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;知名IT律师赵占领在接受21世纪经济报道记者采访时认为，新的规定对搜索广告和弹窗广告都提出了新的要求，一定程度上能够对现在的互联网广告乱象造成威慑。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;在此背景下，微信公众号或者朋友圈发布的“软文”也将会统一标注成广告，并受到广告法的监管。一名互联网代理公司高管对21世纪经济报道记者坦言，新的规定需要去重新适应，以往的做法可能会铤而走险。“至少以后不能再冒险打擦边球了，一味追求点击效果的广告模式也要变化。”
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    <span style="font-weight: 700; font-size: 20px;">监管或难奏效？</span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;虽然《暂行办法》有了明确的规定，但是真正执行起来或难落地。尤其是在备受诟病的医疗或保健等领域，对于搜索平台的监管需要建立一套新的流程和标准。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;据新华社报道，上海市工商局昨天通报，由于付费将不具备母婴保健技术资格医院的医疗广告顶至前列，上海南浦妇科医院、安平医院等广告主涉嫌违法广告行为，百度搜索、搜狗搜索等广告发布者涉嫌未尽审查义务行为，将一并进行立案调查。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;据悉，通过前期排摸，在搜索引擎输入“人流”或“人工流产”字样时，跳出的推广广告中，一些推广的医院并不具备母婴保健技术资格。这种将黑医院顶至前列的做法，涉嫌违反广告法和《互联网广告管理暂行办法》。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;上海市工商局广告处副处长李华对21世纪经济报道表示，根据广告法、医疗广告管理办法等规定，发布医疗广告应该事先由卫生行政部门对广告内容进行审查出证。对于上述不具备资格的医疗机构，卫生部门不会允许其发布含有“人流”字样的广告内容。因此，搜索引擎发布这些广告，涉嫌未尽审查义务。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;过去对竞价排名是否属于广告，各地监管部门看法不一。此次的新规对竞价排名的性质进行了明确规制，并扩大管辖范围，认定广告主、广告经营者和广告发布者三者，任意一方所在地的监管部门，均对违法行为有管辖权。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;对于互联网广告不具有可识别性的，按照《广告法》相关规定，由工商行政管理部门责令改正，对广告发布者处以10万元以下的罚款；以欺骗方式诱使用户点击广告内容的，或未经允许在用户的电子邮件中附加广告或广告链接的，责令改正，处1万元以上3万元以下的罚款。
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; color: rgb(66, 66, 66); font-size: 1pc; line-height: 30px;">
+    &nbsp; &nbsp;业界认为，仅靠罚款或许很难让新规奏效，对于企业来说，一笔广告动辄涉及到几十万上百万的收益，最高10万元的罚款对他们来说，违法成本太低。因此，如何落实新规内容，以及如何督促平台完成整改，将是下一阶段的重中之重。
+</p>
+<p>
+    <br/>
+</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!--foot-->
+		<div id="foot">
+		<div class="footer">
+    <div class="all-bottom">
+        <div class="bottom-lef">
+            <p><a href="index.html">主页</a> |
+                <a href="about-we1.html">关于我们</a> |
+                <a href="news.html">新闻动态</a> |
+                <a href="case.html">成功案例</a> |
+                <a href="job.html">人才招聘</a> |
+                <a href="tel-me.html">联系我们</a></p>
+            <p>Copyright &copy; 2015-2016 郑州多美源网络科技有限公司 版权所有 备案号：<a
+                    href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action">豫ICP备15015646号</a> 技术支持：多美源科技</p>
+        </div>
+        <div class="bottom-righ">
+            <p>关注我们</p>
+            <div class="attention">
+                <a href="#"><img src="img/index/weibo.png"/></a>
+                <a href="#"><img src="img/index/qq.png"/></a>
+                <a href="#"><img src="img/index/wechat.png"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+		<!--<script type="text/javascript">
+			$(function () {
+				$("#nav").load("include/nav.html");
+				$("#foot").load("include/footer.html");
+			})
+		</script>-->
+	</body>
+</html>
